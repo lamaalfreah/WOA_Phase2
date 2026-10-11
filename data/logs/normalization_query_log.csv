@@ -1,0 +1,197 @@
+﻿year,field_id,field,query,total_openalex_field_output
+2016,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A17&per_page=1,562035
+2016,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A18&per_page=1,100522
+2016,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A21&per_page=1,57487
+2016,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A22&per_page=1,1977571
+2016,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A23&per_page=1,408153
+2016,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2016%2Cprimary_topic.field.id%3A36&per_page=1,257666
+2017,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A11&per_page=1,411345
+2017,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A13&per_page=1,422062
+2017,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A17&per_page=1,565904
+2017,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A18&per_page=1,103091
+2017,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A20&per_page=1,346619
+2017,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A21&per_page=1,58951
+2017,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A22&per_page=1,1692025
+2017,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A36&per_page=1,266981
+2017,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A27&per_page=1,1392791
+2017,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2017%2Cprimary_topic.field.id%3A31&per_page=1,219916
+2018,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A11&per_page=1,429209
+2018,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A14&per_page=1,341086
+2018,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A17&per_page=1,609209
+2018,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A19&per_page=1,149278
+2018,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A20&per_page=1,349028
+2018,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A21&per_page=1,62658
+2018,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A22&per_page=1,1599628
+2018,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A23&per_page=1,422331
+2018,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A36&per_page=1,270545
+2018,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A27&per_page=1,1425633
+2018,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A31&per_page=1,222158
+2018,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2018%2Cprimary_topic.field.id%3A32&per_page=1,292750
+2019,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A11&per_page=1,461617
+2019,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A13&per_page=1,446275
+2019,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A14&per_page=1,352438
+2019,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A17&per_page=1,643049
+2019,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A18&per_page=1,109985
+2019,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A19&per_page=1,160043
+2019,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A21&per_page=1,66692
+2019,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A22&per_page=1,1641843
+2019,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A23&per_page=1,473703
+2019,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A36&per_page=1,279133
+2019,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A26&per_page=1,117423
+2019,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A27&per_page=1,1500851
+2019,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A28&per_page=1,124443
+2019,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A31&per_page=1,230233
+2019,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A32&per_page=1,297556
+2019,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2019%2Cprimary_topic.field.id%3A33&per_page=1,1822342
+2020,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A11&per_page=1,460977
+2020,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A13&per_page=1,505444
+2020,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A14&per_page=1,345882
+2020,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A17&per_page=1,683294
+2020,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A18&per_page=1,110928
+2020,35,Dentistry,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A35&per_page=1,43254
+2020,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A19&per_page=1,178365
+2020,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A20&per_page=1,363243
+2020,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A21&per_page=1,69029
+2020,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A22&per_page=1,1615746
+2020,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A23&per_page=1,567553
+2020,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A36&per_page=1,296783
+2020,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A25&per_page=1,316015
+2020,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A26&per_page=1,141104
+2020,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A27&per_page=1,1701900
+2020,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A28&per_page=1,130348
+2020,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A31&per_page=1,222666
+2020,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2020%2Cprimary_topic.field.id%3A32&per_page=1,324852
+2021,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A11&per_page=1,431509
+2021,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A13&per_page=1,474988
+2021,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A14&per_page=1,302650
+2021,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A15&per_page=1,21185
+2021,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A17&per_page=1,645081
+2021,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A18&per_page=1,98271
+2021,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A19&per_page=1,192592
+2021,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A20&per_page=1,325429
+2021,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A21&per_page=1,68240
+2021,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A22&per_page=1,1359790
+2021,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A23&per_page=1,581580
+2021,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A36&per_page=1,258110
+2021,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A25&per_page=1,284232
+2021,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A26&per_page=1,135306
+2021,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A27&per_page=1,1639700
+2021,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A28&per_page=1,128745
+2021,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A31&per_page=1,205176
+2021,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A32&per_page=1,308708
+2021,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2021%2Cprimary_topic.field.id%3A33&per_page=1,1645409
+2022,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A11&per_page=1,417480
+2022,12,Arts and Humanities,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A12&per_page=1,557532
+2022,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A13&per_page=1,489432
+2022,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A14&per_page=1,278722
+2022,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A15&per_page=1,21252
+2022,16,Chemistry,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A16&per_page=1,125682
+2022,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A17&per_page=1,631589
+2022,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A18&per_page=1,94219
+2022,35,Dentistry,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A35&per_page=1,39968
+2022,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A19&per_page=1,267505
+2022,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A20&per_page=1,293515
+2022,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A21&per_page=1,71282
+2022,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A22&per_page=1,1177787
+2022,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A23&per_page=1,623891
+2022,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A36&per_page=1,235359
+2022,24,Immunology and Microbiology,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A24&per_page=1,73642
+2022,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A25&per_page=1,285939
+2022,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A26&per_page=1,123450
+2022,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A27&per_page=1,1567184
+2022,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A28&per_page=1,123138
+2022,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A31&per_page=1,194272
+2022,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A32&per_page=1,284259
+2022,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2022%2Cprimary_topic.field.id%3A33&per_page=1,1508960
+2023,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A11&per_page=1,448939
+2023,12,Arts and Humanities,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A12&per_page=1,517350
+2023,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A13&per_page=1,616396
+2023,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A14&per_page=1,325041
+2023,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A15&per_page=1,23355
+2023,16,Chemistry,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A16&per_page=1,216350
+2023,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A17&per_page=1,713263
+2023,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A18&per_page=1,100905
+2023,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A19&per_page=1,245305
+2023,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A20&per_page=1,368598
+2023,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A21&per_page=1,79244
+2023,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A22&per_page=1,1280904
+2023,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A23&per_page=1,639861
+2023,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A36&per_page=1,256733
+2023,24,Immunology and Microbiology,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A24&per_page=1,92688
+2023,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A25&per_page=1,302295
+2023,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A26&per_page=1,125289
+2023,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A27&per_page=1,1746184
+2023,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A28&per_page=1,133151
+2023,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A31&per_page=1,213545
+2023,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A32&per_page=1,304386
+2023,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A33&per_page=1,1655793
+2023,34,Veterinary,https://api.openalex.org/works?filter=publication_year%3A2023%2Cprimary_topic.field.id%3A34&per_page=1,12769
+2024,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A11&per_page=1,443366
+2024,12,Arts and Humanities,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A12&per_page=1,512784
+2024,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A13&per_page=1,442228
+2024,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A14&per_page=1,364580
+2024,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A15&per_page=1,26438
+2024,16,Chemistry,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A16&per_page=1,127202
+2024,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A17&per_page=1,745143
+2024,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A18&per_page=1,110247
+2024,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A19&per_page=1,188525
+2024,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A20&per_page=1,336603
+2024,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A21&per_page=1,86368
+2024,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A22&per_page=1,1423422
+2024,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A23&per_page=1,512732
+2024,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A36&per_page=1,274804
+2024,24,Immunology and Microbiology,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A24&per_page=1,79604
+2024,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A25&per_page=1,268342
+2024,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A26&per_page=1,120401
+2024,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A27&per_page=1,1684324
+2024,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A28&per_page=1,136428
+2024,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A31&per_page=1,207613
+2024,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A32&per_page=1,326442
+2024,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2024%2Cprimary_topic.field.id%3A33&per_page=1,1651128
+2025,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A11&per_page=1,493137
+2025,12,Arts and Humanities,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A12&per_page=1,598278
+2025,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A13&per_page=1,463972
+2025,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A14&per_page=1,428542
+2025,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A15&per_page=1,29271
+2025,16,Chemistry,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A16&per_page=1,141222
+2025,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A17&per_page=1,865699
+2025,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A18&per_page=1,130239
+2025,35,Dentistry,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A35&per_page=1,50632
+2025,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A19&per_page=1,151684
+2025,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A20&per_page=1,329906
+2025,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A21&per_page=1,91503
+2025,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A22&per_page=1,1585622
+2025,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A23&per_page=1,555747
+2025,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A36&per_page=1,302735
+2025,24,Immunology and Microbiology,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A24&per_page=1,87581
+2025,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A25&per_page=1,287199
+2025,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A26&per_page=1,140662
+2025,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A27&per_page=1,1846303
+2025,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A28&per_page=1,160208
+2025,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A31&per_page=1,261863
+2025,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A32&per_page=1,406167
+2025,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2025%2Cprimary_topic.field.id%3A33&per_page=1,1919401
+2026,11,Agricultural and Biological Sciences,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A11&per_page=1,392230
+2026,12,Arts and Humanities,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A12&per_page=1,519184
+2026,13,"Biochemistry, Genetics and Molecular Biology",https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A13&per_page=1,398165
+2026,14,"Business, Management and Accounting",https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A14&per_page=1,354244
+2026,15,Chemical Engineering,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A15&per_page=1,23222
+2026,16,Chemistry,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A16&per_page=1,91353
+2026,17,Computer Science,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A17&per_page=1,910350
+2026,18,Decision Sciences,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A18&per_page=1,140255
+2026,35,Dentistry,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A35&per_page=1,43699
+2026,19,Earth and Planetary Sciences,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A19&per_page=1,140352
+2026,20,"Economics, Econometrics and Finance",https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A20&per_page=1,289370
+2026,21,Energy,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A21&per_page=1,67948
+2026,22,Engineering,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A22&per_page=1,1172175
+2026,23,Environmental Science,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A23&per_page=1,475454
+2026,36,Health Professions,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A36&per_page=1,230834
+2026,25,Materials Science,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A25&per_page=1,240934
+2026,26,Mathematics,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A26&per_page=1,196127
+2026,27,Medicine,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A27&per_page=1,1556034
+2026,28,Neuroscience,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A28&per_page=1,174075
+2026,29,Nursing,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A29&per_page=1,41039
+2026,31,Physics and Astronomy,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A31&per_page=1,449813
+2026,32,Psychology,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A32&per_page=1,405664
+2026,33,Social Sciences,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A33&per_page=1,1663439
+2026,34,Veterinary,https://api.openalex.org/works?filter=publication_year%3A2026%2Cprimary_topic.field.id%3A34&per_page=1,14390

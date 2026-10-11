@@ -1,0 +1,196 @@
+year,field,count_with_self,count_without_self,count_without_retracted,total_openalex_field_output,share_per_100k_with_self,share_per_100k_without_self,year_status
+2016,Computer Science,16,14,16,562035.0,2.847,2.491,complete
+2016,Decision Sciences,1,1,1,100522.0,0.995,0.995,complete
+2016,Energy,1,1,1,57487.0,1.74,1.74,complete
+2016,Engineering,16,16,16,1977571.0,0.809,0.809,complete
+2016,Environmental Science,1,1,1,408153.0,0.245,0.245,complete
+2017,Agricultural and Biological Sciences,1,1,1,411345.0,0.243,0.243,complete
+2017,"Biochemistry, Genetics and Molecular Biology",1,1,1,422062.0,0.237,0.237,complete
+2017,Computer Science,85,79,85,565904.0,15.02,13.96,complete
+2017,Decision Sciences,1,1,1,103091.0,0.97,0.97,complete
+2017,"Economics, Econometrics and Finance",1,1,1,346619.0,0.289,0.289,complete
+2017,Energy,4,4,4,58951.0,6.785,6.785,complete
+2017,Engineering,57,57,57,1692025.0,3.369,3.369,complete
+2017,Health Professions,3,3,3,266981.0,1.124,1.124,complete
+2017,Medicine,1,1,1,1392791.0,0.072,0.072,complete
+2017,Physics and Astronomy,1,1,1,219916.0,0.455,0.455,complete
+2018,Agricultural and Biological Sciences,4,4,4,429209.0,0.932,0.932,complete
+2018,"Business, Management and Accounting",3,3,3,341086.0,0.88,0.88,complete
+2018,Computer Science,179,173,178,609209.0,29.382,28.397,complete
+2018,Earth and Planetary Sciences,1,1,1,149278.0,0.67,0.67,complete
+2018,"Economics, Econometrics and Finance",1,1,1,349028.0,0.287,0.287,complete
+2018,Energy,12,11,12,62658.0,19.152,17.556,complete
+2018,Engineering,143,141,141,1599628.0,8.94,8.815,complete
+2018,Environmental Science,2,2,2,422331.0,0.474,0.474,complete
+2018,Health Professions,2,2,2,270545.0,0.739,0.739,complete
+2018,Medicine,2,2,2,1425633.0,0.14,0.14,complete
+2018,Physics and Astronomy,5,5,5,222158.0,2.251,2.251,complete
+2018,Psychology,3,3,3,292750.0,1.025,1.025,complete
+2019,Agricultural and Biological Sciences,4,4,4,461617.0,0.867,0.867,complete
+2019,"Biochemistry, Genetics and Molecular Biology",4,4,4,446275.0,0.896,0.896,complete
+2019,"Business, Management and Accounting",3,3,3,352438.0,0.851,0.851,complete
+2019,Computer Science,357,343,357,643049.0,55.517,53.34,complete
+2019,Decision Sciences,8,8,8,109985.0,7.274,7.274,complete
+2019,Earth and Planetary Sciences,6,6,6,160043.0,3.749,3.749,complete
+2019,Energy,19,19,19,66692.0,28.489,28.489,complete
+2019,Engineering,243,243,243,1641843.0,14.8,14.8,complete
+2019,Environmental Science,14,14,14,473703.0,2.955,2.955,complete
+2019,Health Professions,5,5,5,279133.0,1.791,1.791,complete
+2019,Mathematics,2,1,2,117423.0,1.703,0.852,complete
+2019,Medicine,4,4,4,1500851.0,0.267,0.267,complete
+2019,Neuroscience,5,5,5,124443.0,4.018,4.018,complete
+2019,Physics and Astronomy,8,8,8,230233.0,3.475,3.475,complete
+2019,Psychology,1,1,1,297556.0,0.336,0.336,complete
+2019,Social Sciences,1,1,1,1822342.0,0.055,0.055,complete
+2020,Agricultural and Biological Sciences,8,8,8,460977.0,1.735,1.735,complete
+2020,"Biochemistry, Genetics and Molecular Biology",11,11,11,505444.0,2.176,2.176,complete
+2020,"Business, Management and Accounting",4,4,4,345882.0,1.156,1.156,complete
+2020,Computer Science,580,570,578,683294.0,84.883,83.419,complete
+2020,Decision Sciences,21,21,21,110928.0,18.931,18.931,complete
+2020,Dentistry,1,1,1,43254.0,2.312,2.312,complete
+2020,Earth and Planetary Sciences,3,3,3,178365.0,1.682,1.682,complete
+2020,"Economics, Econometrics and Finance",2,2,2,363243.0,0.551,0.551,complete
+2020,Energy,9,8,9,69029.0,13.038,11.589,complete
+2020,Engineering,340,336,336,1615746.0,21.043,20.795,complete
+2020,Environmental Science,23,23,23,567553.0,4.052,4.052,complete
+2020,Health Professions,2,2,2,296783.0,0.674,0.674,complete
+2020,Materials Science,1,1,1,316015.0,0.316,0.316,complete
+2020,Mathematics,2,2,2,141104.0,1.417,1.417,complete
+2020,Medicine,24,22,24,1701900.0,1.41,1.293,complete
+2020,Neuroscience,10,10,10,130348.0,7.672,7.672,complete
+2020,Physics and Astronomy,9,8,9,222666.0,4.042,3.593,complete
+2020,Psychology,1,1,1,324852.0,0.308,0.308,complete
+2021,Agricultural and Biological Sciences,16,16,16,431509.0,3.708,3.708,complete
+2021,"Biochemistry, Genetics and Molecular Biology",11,11,11,474988.0,2.316,2.316,complete
+2021,"Business, Management and Accounting",11,11,9,302650.0,3.635,3.635,complete
+2021,Chemical Engineering,2,2,2,21185.0,9.441,9.441,complete
+2021,Computer Science,764,739,762,645081.0,118.435,114.559,complete
+2021,Decision Sciences,34,34,33,98271.0,34.598,34.598,complete
+2021,Earth and Planetary Sciences,8,8,8,192592.0,4.154,4.154,complete
+2021,"Economics, Econometrics and Finance",2,2,2,325429.0,0.615,0.615,complete
+2021,Energy,32,31,32,68240.0,46.893,45.428,complete
+2021,Engineering,529,520,525,1359790.0,38.903,38.241,complete
+2021,Environmental Science,36,36,36,581580.0,6.19,6.19,complete
+2021,Health Professions,10,9,9,258110.0,3.874,3.487,complete
+2021,Materials Science,5,5,5,284232.0,1.759,1.759,complete
+2021,Mathematics,5,5,5,135306.0,3.695,3.695,complete
+2021,Medicine,34,30,34,1639700.0,2.074,1.83,complete
+2021,Neuroscience,10,10,10,128745.0,7.767,7.767,complete
+2021,Physics and Astronomy,12,11,12,205176.0,5.849,5.361,complete
+2021,Psychology,2,2,2,308708.0,0.648,0.648,complete
+2021,Social Sciences,8,8,8,1645409.0,0.486,0.486,complete
+2022,Agricultural and Biological Sciences,21,20,21,417480.0,5.03,4.791,complete
+2022,Arts and Humanities,1,1,1,557532.0,0.179,0.179,complete
+2022,"Biochemistry, Genetics and Molecular Biology",20,20,20,489432.0,4.086,4.086,complete
+2022,"Business, Management and Accounting",16,16,16,278722.0,5.74,5.74,complete
+2022,Chemical Engineering,2,2,2,21252.0,9.411,9.411,complete
+2022,Chemistry,6,6,6,125682.0,4.774,4.774,complete
+2022,Computer Science,1038,1007,1027,631589.0,164.347,159.439,complete
+2022,Decision Sciences,37,37,37,94219.0,39.27,39.27,complete
+2022,Dentistry,1,1,1,39968.0,2.502,2.502,complete
+2022,Earth and Planetary Sciences,7,7,7,267505.0,2.617,2.617,complete
+2022,"Economics, Econometrics and Finance",8,8,8,293515.0,2.726,2.726,complete
+2022,Energy,46,46,46,71282.0,64.532,64.532,complete
+2022,Engineering,685,680,679,1177787.0,58.16,57.735,complete
+2022,Environmental Science,60,60,59,623891.0,9.617,9.617,complete
+2022,Health Professions,11,11,11,235359.0,4.674,4.674,complete
+2022,Immunology and Microbiology,4,1,4,73642.0,5.432,1.358,complete
+2022,Materials Science,4,4,4,285939.0,1.399,1.399,complete
+2022,Mathematics,13,13,13,123450.0,10.531,10.531,complete
+2022,Medicine,70,67,68,1567184.0,4.467,4.275,complete
+2022,Neuroscience,22,22,22,123138.0,17.866,17.866,complete
+2022,Physics and Astronomy,15,14,15,194272.0,7.721,7.206,complete
+2022,Psychology,6,6,6,284259.0,2.111,2.111,complete
+2022,Social Sciences,8,8,8,1508960.0,0.53,0.53,complete
+2023,Agricultural and Biological Sciences,24,24,24,448939.0,5.346,5.346,complete
+2023,Arts and Humanities,2,2,2,517350.0,0.387,0.387,complete
+2023,"Biochemistry, Genetics and Molecular Biology",17,17,16,616396.0,2.758,2.758,complete
+2023,"Business, Management and Accounting",21,21,20,325041.0,6.461,6.461,complete
+2023,Chemical Engineering,4,4,4,23355.0,17.127,17.127,complete
+2023,Chemistry,9,9,9,216350.0,4.16,4.16,complete
+2023,Computer Science,919,893,917,713263.0,128.844,125.199,complete
+2023,Decision Sciences,28,27,28,100905.0,27.749,26.758,complete
+2023,Earth and Planetary Sciences,13,13,13,245305.0,5.3,5.3,complete
+2023,"Economics, Econometrics and Finance",7,7,7,368598.0,1.899,1.899,complete
+2023,Energy,37,37,37,79244.0,46.691,46.691,complete
+2023,Engineering,747,742,745,1280904.0,58.318,57.928,complete
+2023,Environmental Science,52,52,52,639861.0,8.127,8.127,complete
+2023,Health Professions,12,12,12,256733.0,4.674,4.674,complete
+2023,Materials Science,9,9,9,302295.0,2.977,2.977,complete
+2023,Mathematics,8,8,8,125289.0,6.385,6.385,complete
+2023,Medicine,67,66,66,1746184.0,3.837,3.78,complete
+2023,Neuroscience,15,15,15,133151.0,11.265,11.265,complete
+2023,Physics and Astronomy,13,12,13,213545.0,6.088,5.619,complete
+2023,Psychology,1,1,1,304386.0,0.329,0.329,complete
+2023,Social Sciences,5,5,5,1655793.0,0.302,0.302,complete
+2023,Veterinary,1,1,1,12769.0,7.831,7.831,complete
+2024,Agricultural and Biological Sciences,25,25,25,443366.0,5.639,5.639,complete
+2024,Arts and Humanities,1,1,1,512784.0,0.195,0.195,complete
+2024,"Biochemistry, Genetics and Molecular Biology",28,28,28,442228.0,6.332,6.332,complete
+2024,"Business, Management and Accounting",15,15,15,364580.0,4.114,4.114,complete
+2024,Chemical Engineering,4,4,4,26438.0,15.13,15.13,complete
+2024,Chemistry,18,18,18,127202.0,14.151,14.151,complete
+2024,Computer Science,993,961,992,745143.0,133.263,128.969,complete
+2024,Decision Sciences,46,45,46,110247.0,41.724,40.817,complete
+2024,Earth and Planetary Sciences,9,9,9,188525.0,4.774,4.774,complete
+2024,"Economics, Econometrics and Finance",4,4,4,336603.0,1.188,1.188,complete
+2024,Energy,48,47,47,86368.0,55.576,54.418,complete
+2024,Engineering,952,946,949,1423422.0,66.881,66.46,complete
+2024,Environmental Science,67,67,67,512732.0,13.067,13.067,complete
+2024,Health Professions,16,15,16,274804.0,5.822,5.458,complete
+2024,Immunology and Microbiology,2,2,2,79604.0,2.512,2.512,complete
+2024,Materials Science,8,8,8,268342.0,2.981,2.981,complete
+2024,Mathematics,3,3,3,120401.0,2.492,2.492,complete
+2024,Medicine,54,53,54,1684324.0,3.206,3.147,complete
+2024,Neuroscience,19,19,19,136428.0,13.927,13.927,complete
+2024,Physics and Astronomy,12,12,12,207613.0,5.78,5.78,complete
+2024,Psychology,3,3,3,326442.0,0.919,0.919,complete
+2024,Social Sciences,7,7,7,1651128.0,0.424,0.424,complete
+2025,Agricultural and Biological Sciences,38,38,38,493137.0,7.706,7.706,complete
+2025,Arts and Humanities,1,1,1,598278.0,0.167,0.167,complete
+2025,"Biochemistry, Genetics and Molecular Biology",15,15,15,463972.0,3.233,3.233,complete
+2025,"Business, Management and Accounting",24,23,24,428542.0,5.6,5.367,complete
+2025,Chemical Engineering,4,4,4,29271.0,13.665,13.665,complete
+2025,Chemistry,15,15,15,141222.0,10.622,10.622,complete
+2025,Computer Science,929,908,929,865699.0,107.312,104.886,complete
+2025,Decision Sciences,50,50,50,130239.0,38.391,38.391,complete
+2025,Dentistry,2,2,2,50632.0,3.95,3.95,complete
+2025,Earth and Planetary Sciences,15,15,15,151684.0,9.889,9.889,complete
+2025,"Economics, Econometrics and Finance",4,4,4,329906.0,1.212,1.212,complete
+2025,Energy,46,46,46,91503.0,50.272,50.272,complete
+2025,Engineering,912,909,912,1585622.0,57.517,57.328,complete
+2025,Environmental Science,87,87,87,555747.0,15.655,15.655,complete
+2025,Health Professions,11,11,11,302735.0,3.634,3.634,complete
+2025,Immunology and Microbiology,2,2,2,87581.0,2.284,2.284,complete
+2025,Materials Science,9,9,9,287199.0,3.134,3.134,complete
+2025,Mathematics,5,5,5,140662.0,3.555,3.555,complete
+2025,Medicine,37,37,37,1846303.0,2.004,2.004,complete
+2025,Neuroscience,17,17,17,160208.0,10.611,10.611,complete
+2025,Physics and Astronomy,11,11,11,261863.0,4.201,4.201,complete
+2025,Psychology,2,2,2,406167.0,0.492,0.492,complete
+2025,Social Sciences,10,10,10,1919401.0,0.521,0.521,complete
+2026,Agricultural and Biological Sciences,30,30,30,392230.0,7.649,7.649,partial
+2026,Arts and Humanities,2,2,2,519184.0,0.385,0.385,partial
+2026,"Biochemistry, Genetics and Molecular Biology",10,10,10,398165.0,2.512,2.512,partial
+2026,"Business, Management and Accounting",16,15,16,354244.0,4.517,4.234,partial
+2026,Chemical Engineering,1,1,1,23222.0,4.306,4.306,partial
+2026,Chemistry,9,9,9,91353.0,9.852,9.852,partial
+2026,Computer Science,552,546,552,910350.0,60.636,59.977,partial
+2026,Decision Sciences,22,22,22,140255.0,15.686,15.686,partial
+2026,Dentistry,2,2,2,43699.0,4.577,4.577,partial
+2026,Earth and Planetary Sciences,12,12,12,140352.0,8.55,8.55,partial
+2026,"Economics, Econometrics and Finance",5,5,5,289370.0,1.728,1.728,partial
+2026,Energy,29,29,29,67948.0,42.68,42.68,partial
+2026,Engineering,537,534,537,1172175.0,45.812,45.556,partial
+2026,Environmental Science,71,71,71,475454.0,14.933,14.933,partial
+2026,Health Professions,8,8,8,230834.0,3.466,3.466,partial
+2026,Materials Science,10,10,10,240934.0,4.151,4.151,partial
+2026,Mathematics,7,7,7,196127.0,3.569,3.569,partial
+2026,Medicine,35,34,35,1556034.0,2.249,2.185,partial
+2026,Neuroscience,9,9,9,174075.0,5.17,5.17,partial
+2026,Nursing,1,1,1,41039.0,2.437,2.437,partial
+2026,Physics and Astronomy,8,8,8,449813.0,1.779,1.779,partial
+2026,Psychology,6,6,6,405664.0,1.479,1.479,partial
+2026,Social Sciences,6,6,6,1663439.0,0.361,0.361,partial
+2026,Unknown,76,75,76,,,,partial
+2026,Veterinary,1,1,1,14390.0,6.949,6.949,partial

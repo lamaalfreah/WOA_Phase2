@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+~$*
+scripts/*_backup.py
+scripts/manual_decisions_backup.csv
+data/rerun/
+data/raw/g1_raw_2026-10-04.json
+data/raw/g2_stratified_raw_2026-10-06.json

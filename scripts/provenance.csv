@@ -1,0 +1,20 @@
+item,value
+Database,"OpenAlex (https://openalex.org), public REST API https://api.openalex.org"
+Seed work,"Mirjalili S., Lewis A. (2016). The Whale Optimization Algorithm. Advances in Engineering Software 95, 51-67. DOI 10.1016/j.advengsoft.2016.01.008. OpenAlex ID W2290883490"
+Seed authors (OpenAlex IDs),Seyedali Mirjalili A5091500375; Andrew Lewis A5063313173
+Data cutoff,4 October 2026. Works created in OpenAlex or published after this date are flagged and kept out of the core analysis (rule C1).
+G1 query,"GET https://api.openalex.org/works?filter=cites:W2290883490,publication_year:2016-2026&per_page=100&cursor=* (all next_cursor pages followed)"
+G1 retrieval date,"4 October 2026 - 14,638 records; raw file data/raw/g1_raw_2026-10-04.json"
+Seed record,"GET https://api.openalex.org/works/W2290883490 on 4 October 2026 - cited_by_count 14,692; raw file data/raw/seed_work_info.json"
+Normalisation queries,"GET https://api.openalex.org/works?filter=publication_year:Y,primary_topic.field.id:F&per_page=1 (meta.count) for each field-year in G1; 4 October 2026; listed in data/logs/normalization_query_log.csv"
+G2 pilot,"100 random G1 records (seed 20261004), batches of 25; 4 October 2026; data/raw/g2_pilot_raw_2026-10-04.json. Estimated full G2 about 218,000 works, so the stratified-sample fallback was used."
+G2 sample,"500 G1 records stratified by publication year x field, at least one per non-empty stratum (198 strata), rest random; seed 20261004; data/core/g1_stratified_sample_500.csv"
+G2 query,"GET https://api.openalex.org/works?filter=cites:<25 sampled G1 IDs joined by |>,publication_year:2016-2026&per_page=100&cursor=*"
+G2 retrieval date,"6 October 2026 - 11,835 unique works reached, 9,332 after removing all G1 works; raw file data/raw/g2_stratified_raw_2026-10-06.json"
+Request settings,"100 records per page. G1: 0.2 s pause between pages; the script stops on any error. G2 and normalisation: 0.25-0.3 s pause; on HTTP 429, 5xx or timeout the request is retried after 2^attempt seconds (G2: up to 6 tries). Requests did not include a mailto parameter. Cached raw files are reused instead of re-querying."
+Script order,fetch_g1 -> extract_g1_metadata -> add_self_citation_flag -> add_field_ids -> build_field_year_with_ids -> normalize_field_year -> estimate_g2_pilot -> create_stratified_g1_sample -> fetch_g2_from_stratified_sample -> clean_and_document -> make_reference_tables -> build_workbook
+Cleaning run,"9 October 2026, clean_and_document.py; reads data/core and data/raw, writes data/clean; never edits raw or core files"
+Raw-file storage,data/raw/ in the WOA_Phase2 project folder (shared group folder); kept unchanged
+Re-runs fixed to the cutoff,"Retrieval scripts send the snapshot query strings unchanged, drop works created in OpenAlex or published after 2026-10-04 (scripts/snapshot_config.py), and write to data/rerun/<date>/ so the snapshot is never overwritten. compare_live_to_snapshot.py lists every difference by OpenAlex ID."
+"Live check, 10 Oct 2026","The G1 query returned 14,588 records: 23 added after the cutoff (dropped by rule C1); 74 snapshot records no longer returned (all preprints, none in the core analysis set); 1 record that existed by the cutoff gained its citation link later. 14,638 - 74 + 1 = 14,565 within the cutoff. Seed cited_by_count 14,642."
+Earlier snapshot,"Phase 1 G1 retrieval on 19 September 2026 returned 14,541 records; Phase 2 replaces it with the 4 October 2026 snapshot"

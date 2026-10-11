@@ -1,0 +1,59 @@
+WOA Phase 2 - OpenAlex Query Log
+
+Database: OpenAlex
+Seed Work: The Whale Optimization Algorithm
+Seed OpenAlex ID: W2290883490
+Retrieval date: 2026-10-04
+Publication year range: 2016-2026
+Current year status: 2026 is a partial year.
+G1 definition: Works that directly cite the original WOA seed paper.
+Exact filter: cites:W2290883490,publication_year:2016-2026
+Pagination: Cursor pagination
+Records per request: 100
+Raw output file: data/raw/g1_raw_2026-10-04.json
+Retrieved G1 record count: 14638
+
+
+G2 Retrieval
+Database: OpenAlex
+Retrieval date: 2026-10-06
+Publication year range: 2016-2026
+Current year status: 2026 is a partial year.
+G2 definition:
+Works reached by following citations to the frozen stratified sample of G1 records, after removing all records already present in the complete G1 set.
+Full G1 size: 14638
+Frozen stratified G1 sample size: 500
+Stratification variables:
+- Publication year
+- OpenAlex field
+Random seed: 20261004
+
+Sampling rule:
+At least one record was selected from every non-empty year-field stratum, then the remaining sample slots were filled randomly from the remaining G1 records using the fixed random seed.
+
+Batch size: 25 G1 IDs per query batch
+Pagination: Cursor pagination
+Records per request: 100
+Unique works reached through sampled G1: 11835
+Unique G2 records after removing all G1: 9332
+G2-parent citation links: 9725
+Raw output file:
+data/raw/g2_stratified_raw_2026-10-06.json
+Processed G2 output:
+data/processed/g2_extracted.csv
+G2-parent links output:
+data/processed/g2_parent_links.csv
+
+Frozen G1 sample file:
+data/processed/g1_stratified_sample_500.csv
+
+Sampling summary:
+data/logs/g1_stratified_sample_summary.txt
+
+G2 query pattern:
+cites:<G1_ID_1>|<G1_ID_2>|...|<G1_ID_25>,publication_year:2016-2026
+
+Note added 2026-10-10
+Data cutoff: 2026-10-04. Works created in OpenAlex or published after this date are excluded (rule C1); in this snapshot this removes one G2 record (created 2026-10-05).
+Requests did not include the optional mailto parameter.
+Files listed above under data/processed/ are now stored in data/core/ and data/intermediate/.

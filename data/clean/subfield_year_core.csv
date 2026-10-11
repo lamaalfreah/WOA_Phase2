@@ -1,0 +1,228 @@
+year,field > subfield,count_with_self,count_without_self,count_without_retracted,year_status
+2016,Computer Science > Artificial Intelligence,13,11,13,complete
+2016,Computer Science > Computer Vision and Pattern Recognition,3,3,3,complete
+2016,Engineering > Civil and Structural Engineering,2,2,2,complete
+2016,Engineering > Computational Mechanics,1,1,1,complete
+2016,Engineering > Control and Systems Engineering,1,1,1,complete
+2016,Engineering > Electrical and Electronic Engineering,10,10,10,complete
+2016,Engineering > Industrial and Manufacturing Engineering,2,2,2,complete
+2017,Computer Science > Artificial Intelligence,66,60,66,complete
+2017,Computer Science > Computational Theory and Mathematics,6,6,6,complete
+2017,Computer Science > Computer Networks and Communications,5,5,5,complete
+2017,Computer Science > Computer Vision and Pattern Recognition,5,5,5,complete
+2017,Computer Science > Information Systems,3,3,3,complete
+2017,Engineering > Aerospace Engineering,1,1,1,complete
+2017,Engineering > Civil and Structural Engineering,3,3,3,complete
+2017,Engineering > Computational Mechanics,3,3,3,complete
+2017,Engineering > Control and Systems Engineering,7,7,7,complete
+2017,Engineering > Electrical and Electronic Engineering,36,36,36,complete
+2017,Engineering > Industrial and Manufacturing Engineering,4,4,4,complete
+2017,Engineering > Media Technology,2,2,2,complete
+2017,Engineering > Ocean Engineering,1,1,1,complete
+2018,Computer Science > Artificial Intelligence,127,121,126,complete
+2018,Computer Science > Computational Theory and Mathematics,3,3,3,complete
+2018,Computer Science > Computer Networks and Communications,19,19,19,complete
+2018,Computer Science > Computer Vision and Pattern Recognition,14,14,14,complete
+2018,Computer Science > Information Systems,11,11,11,complete
+2018,Computer Science > Signal Processing,3,3,3,complete
+2018,Computer Science > Software,2,2,2,complete
+2018,Engineering > Aerospace Engineering,10,10,10,complete
+2018,Engineering > Automotive Engineering,2,2,2,complete
+2018,Engineering > Biomedical Engineering,1,1,1,complete
+2018,Engineering > Building and Construction,1,1,1,complete
+2018,Engineering > Civil and Structural Engineering,8,8,8,complete
+2018,Engineering > Computational Mechanics,4,4,4,complete
+2018,Engineering > Control and Systems Engineering,17,17,17,complete
+2018,Engineering > Electrical and Electronic Engineering,80,80,80,complete
+2018,Engineering > Industrial and Manufacturing Engineering,9,7,7,complete
+2018,Engineering > Mechanical Engineering,3,3,3,complete
+2018,Engineering > Mechanics of Materials,2,2,2,complete
+2018,Engineering > Media Technology,3,3,3,complete
+2018,Engineering > Ocean Engineering,3,3,3,complete
+2019,Computer Science > Artificial Intelligence,258,244,258,complete
+2019,Computer Science > Computational Theory and Mathematics,15,15,15,complete
+2019,Computer Science > Computer Networks and Communications,33,33,33,complete
+2019,Computer Science > Computer Vision and Pattern Recognition,30,30,30,complete
+2019,Computer Science > Information Systems,14,14,14,complete
+2019,Computer Science > Signal Processing,4,4,4,complete
+2019,Computer Science > Software,3,3,3,complete
+2019,Engineering > Aerospace Engineering,13,13,13,complete
+2019,Engineering > Automotive Engineering,2,2,2,complete
+2019,Engineering > Biomedical Engineering,3,3,3,complete
+2019,Engineering > Building and Construction,1,1,1,complete
+2019,Engineering > Civil and Structural Engineering,17,17,17,complete
+2019,Engineering > Computational Mechanics,2,2,2,complete
+2019,Engineering > Control and Systems Engineering,48,48,48,complete
+2019,Engineering > Electrical and Electronic Engineering,106,106,106,complete
+2019,Engineering > Industrial and Manufacturing Engineering,17,17,17,complete
+2019,Engineering > Mechanical Engineering,8,8,8,complete
+2019,Engineering > Mechanics of Materials,2,2,2,complete
+2019,Engineering > Media Technology,7,7,7,complete
+2019,Engineering > Ocean Engineering,14,14,14,complete
+2019,"Engineering > Safety, Risk, Reliability and Quality",3,3,3,complete
+2020,Computer Science > Artificial Intelligence,397,390,396,complete
+2020,Computer Science > Computational Theory and Mathematics,23,20,23,complete
+2020,Computer Science > Computer Graphics and Computer-Aided Design,1,1,1,complete
+2020,Computer Science > Computer Networks and Communications,61,61,60,complete
+2020,Computer Science > Computer Science Applications,1,1,1,complete
+2020,Computer Science > Computer Vision and Pattern Recognition,53,53,53,complete
+2020,Computer Science > Hardware and Architecture,2,2,2,complete
+2020,Computer Science > Human-Computer Interaction,2,2,2,complete
+2020,Computer Science > Information Systems,29,29,29,complete
+2020,Computer Science > Signal Processing,9,9,9,complete
+2020,Computer Science > Software,2,2,2,complete
+2020,Engineering > Aerospace Engineering,20,20,20,complete
+2020,Engineering > Automotive Engineering,4,4,4,complete
+2020,Engineering > Biomedical Engineering,20,19,20,complete
+2020,Engineering > Building and Construction,9,9,9,complete
+2020,Engineering > Civil and Structural Engineering,23,23,23,complete
+2020,Engineering > Computational Mechanics,3,3,3,complete
+2020,Engineering > Control and Systems Engineering,52,51,50,complete
+2020,Engineering > Electrical and Electronic Engineering,144,143,143,complete
+2020,Engineering > Industrial and Manufacturing Engineering,25,25,25,complete
+2020,Engineering > Mechanical Engineering,14,14,14,complete
+2020,Engineering > Mechanics of Materials,3,3,3,complete
+2020,Engineering > Media Technology,8,8,8,complete
+2020,Engineering > Ocean Engineering,13,12,12,complete
+2020,"Engineering > Safety, Risk, Reliability and Quality",2,2,2,complete
+2021,Computer Science > Artificial Intelligence,509,487,507,complete
+2021,Computer Science > Computational Theory and Mathematics,31,30,31,complete
+2021,Computer Science > Computer Networks and Communications,83,82,83,complete
+2021,Computer Science > Computer Science Applications,3,2,3,complete
+2021,Computer Science > Computer Vision and Pattern Recognition,74,74,74,complete
+2021,Computer Science > Human-Computer Interaction,1,1,1,complete
+2021,Computer Science > Information Systems,53,53,53,complete
+2021,Computer Science > Signal Processing,7,7,7,complete
+2021,Computer Science > Software,3,3,3,complete
+2021,Engineering > Aerospace Engineering,26,25,26,complete
+2021,Engineering > Automotive Engineering,9,9,9,complete
+2021,Engineering > Biomedical Engineering,18,18,17,complete
+2021,Engineering > Building and Construction,13,13,13,complete
+2021,Engineering > Civil and Structural Engineering,37,37,36,complete
+2021,Engineering > Computational Mechanics,10,10,10,complete
+2021,Engineering > Control and Systems Engineering,89,87,89,complete
+2021,Engineering > Electrical and Electronic Engineering,208,204,206,complete
+2021,Engineering > Industrial and Manufacturing Engineering,42,42,42,complete
+2021,Engineering > Mechanical Engineering,33,33,33,complete
+2021,Engineering > Mechanics of Materials,9,9,9,complete
+2021,Engineering > Media Technology,11,11,11,complete
+2021,Engineering > Ocean Engineering,17,15,17,complete
+2021,"Engineering > Safety, Risk, Reliability and Quality",7,7,7,complete
+2022,Computer Science > Artificial Intelligence,726,699,720,complete
+2022,Computer Science > Computational Theory and Mathematics,36,34,36,complete
+2022,Computer Science > Computer Networks and Communications,111,110,108,complete
+2022,Computer Science > Computer Science Applications,3,3,3,complete
+2022,Computer Science > Computer Vision and Pattern Recognition,89,88,87,complete
+2022,Computer Science > Hardware and Architecture,1,1,1,complete
+2022,Computer Science > Human-Computer Interaction,2,2,2,complete
+2022,Computer Science > Information Systems,47,47,47,complete
+2022,Computer Science > Signal Processing,18,18,18,complete
+2022,Computer Science > Software,5,5,5,complete
+2022,Engineering > Aerospace Engineering,33,33,32,complete
+2022,Engineering > Architecture,2,2,2,complete
+2022,Engineering > Automotive Engineering,15,15,14,complete
+2022,Engineering > Biomedical Engineering,40,40,39,complete
+2022,Engineering > Building and Construction,22,22,22,complete
+2022,Engineering > Civil and Structural Engineering,63,62,62,complete
+2022,Engineering > Computational Mechanics,10,10,10,complete
+2022,Engineering > Control and Systems Engineering,105,105,104,complete
+2022,Engineering > Electrical and Electronic Engineering,258,254,257,complete
+2022,Engineering > Industrial and Manufacturing Engineering,38,38,38,complete
+2022,Engineering > Mechanical Engineering,43,43,43,complete
+2022,Engineering > Mechanics of Materials,12,12,12,complete
+2022,Engineering > Media Technology,7,7,7,complete
+2022,Engineering > Ocean Engineering,26,26,26,complete
+2022,"Engineering > Safety, Risk, Reliability and Quality",11,11,11,complete
+2023,Computer Science > Artificial Intelligence,621,600,619,complete
+2023,Computer Science > Computational Theory and Mathematics,38,36,38,complete
+2023,Computer Science > Computer Graphics and Computer-Aided Design,1,1,1,complete
+2023,Computer Science > Computer Networks and Communications,89,87,89,complete
+2023,Computer Science > Computer Science Applications,2,2,2,complete
+2023,Computer Science > Computer Vision and Pattern Recognition,108,107,108,complete
+2023,Computer Science > Hardware and Architecture,1,1,1,complete
+2023,Computer Science > Human-Computer Interaction,1,1,1,complete
+2023,Computer Science > Information Systems,44,44,44,complete
+2023,Computer Science > Signal Processing,13,13,13,complete
+2023,Computer Science > Software,1,1,1,complete
+2023,Engineering > Aerospace Engineering,51,51,51,complete
+2023,Engineering > Automotive Engineering,29,29,29,complete
+2023,Engineering > Biomedical Engineering,41,41,41,complete
+2023,Engineering > Building and Construction,23,23,23,complete
+2023,Engineering > Civil and Structural Engineering,55,54,55,complete
+2023,Engineering > Computational Mechanics,16,16,16,complete
+2023,Engineering > Control and Systems Engineering,108,108,108,complete
+2023,Engineering > Electrical and Electronic Engineering,261,257,259,complete
+2023,Engineering > Industrial and Manufacturing Engineering,42,42,42,complete
+2023,Engineering > Mechanical Engineering,44,44,44,complete
+2023,Engineering > Mechanics of Materials,17,17,17,complete
+2023,Engineering > Media Technology,11,11,11,complete
+2023,Engineering > Ocean Engineering,42,42,42,complete
+2023,"Engineering > Safety, Risk, Reliability and Quality",7,7,7,complete
+2024,Computer Science > Artificial Intelligence,623,597,622,complete
+2024,Computer Science > Computational Theory and Mathematics,39,36,39,complete
+2024,Computer Science > Computer Networks and Communications,107,105,107,complete
+2024,Computer Science > Computer Vision and Pattern Recognition,154,154,154,complete
+2024,Computer Science > Hardware and Architecture,2,2,2,complete
+2024,Computer Science > Information Systems,53,52,53,complete
+2024,Computer Science > Signal Processing,12,12,12,complete
+2024,Computer Science > Software,3,3,3,complete
+2024,Engineering > Aerospace Engineering,73,73,73,complete
+2024,Engineering > Automotive Engineering,33,33,33,complete
+2024,Engineering > Biomedical Engineering,34,34,33,complete
+2024,Engineering > Building and Construction,32,32,32,complete
+2024,Engineering > Civil and Structural Engineering,72,71,72,complete
+2024,Engineering > Computational Mechanics,21,21,21,complete
+2024,Engineering > Control and Systems Engineering,191,191,190,complete
+2024,Engineering > Electrical and Electronic Engineering,254,251,254,complete
+2024,Engineering > Industrial and Manufacturing Engineering,79,79,78,complete
+2024,Engineering > Mechanical Engineering,57,56,57,complete
+2024,Engineering > Mechanics of Materials,26,26,26,complete
+2024,Engineering > Media Technology,14,14,14,complete
+2024,Engineering > Ocean Engineering,53,52,53,complete
+2024,"Engineering > Safety, Risk, Reliability and Quality",13,13,13,complete
+2025,Computer Science > Artificial Intelligence,559,540,559,complete
+2025,Computer Science > Computational Theory and Mathematics,43,43,43,complete
+2025,Computer Science > Computer Networks and Communications,92,92,92,complete
+2025,Computer Science > Computer Science Applications,1,1,1,complete
+2025,Computer Science > Computer Vision and Pattern Recognition,165,163,165,complete
+2025,Computer Science > Hardware and Architecture,4,4,4,complete
+2025,Computer Science > Information Systems,46,46,46,complete
+2025,Computer Science > Signal Processing,14,14,14,complete
+2025,Computer Science > Software,5,5,5,complete
+2025,Engineering > Aerospace Engineering,72,72,72,complete
+2025,Engineering > Automotive Engineering,45,45,45,complete
+2025,Engineering > Biomedical Engineering,28,28,28,complete
+2025,Engineering > Building and Construction,33,33,33,complete
+2025,Engineering > Civil and Structural Engineering,83,83,83,complete
+2025,Engineering > Computational Mechanics,12,12,12,complete
+2025,Engineering > Control and Systems Engineering,160,160,160,complete
+2025,Engineering > Electrical and Electronic Engineering,228,227,228,complete
+2025,Engineering > Industrial and Manufacturing Engineering,75,74,75,complete
+2025,Engineering > Mechanical Engineering,76,75,76,complete
+2025,Engineering > Mechanics of Materials,31,31,31,complete
+2025,Engineering > Media Technology,7,7,7,complete
+2025,Engineering > Ocean Engineering,50,50,50,complete
+2025,"Engineering > Safety, Risk, Reliability and Quality",12,12,12,complete
+2026,Computer Science > Artificial Intelligence,316,312,316,partial
+2026,Computer Science > Computational Theory and Mathematics,38,37,38,partial
+2026,Computer Science > Computer Networks and Communications,65,65,65,partial
+2026,Computer Science > Computer Science Applications,2,2,2,partial
+2026,Computer Science > Computer Vision and Pattern Recognition,97,96,97,partial
+2026,Computer Science > Hardware and Architecture,2,2,2,partial
+2026,Computer Science > Information Systems,25,25,25,partial
+2026,Computer Science > Signal Processing,6,6,6,partial
+2026,Computer Science > Software,1,1,1,partial
+2026,Engineering > Aerospace Engineering,67,66,67,partial
+2026,Engineering > Automotive Engineering,24,24,24,partial
+2026,Engineering > Biomedical Engineering,17,17,17,partial
+2026,Engineering > Building and Construction,11,11,11,partial
+2026,Engineering > Civil and Structural Engineering,63,63,63,partial
+2026,Engineering > Computational Mechanics,9,9,9,partial
+2026,Engineering > Control and Systems Engineering,77,77,77,partial
+2026,Engineering > Electrical and Electronic Engineering,143,142,143,partial
+2026,Engineering > Industrial and Manufacturing Engineering,35,34,35,partial
+2026,Engineering > Mechanical Engineering,35,35,35,partial
+2026,Engineering > Mechanics of Materials,19,19,19,partial
+2026,Engineering > Media Technology,7,7,7,partial
+2026,Engineering > Ocean Engineering,24,24,24,partial
+2026,"Engineering > Safety, Risk, Reliability and Quality",6,6,6,partial

@@ -1,0 +1,16 @@
+rule_id,area,rule
+C1,Cutoff,Records created in OpenAlex or published after 2026-10-04 are flagged (after_cutoff_flag=1) and kept out of the core analysis.
+T1,Document type,"peer-review, paratext, retraction notice, erratum, editorial, reference-entry, dataset: kept in file, excluded from core analysis."
+T2,Document type,"preprint, dissertation, book, report, software-paper, other, conference-abstract, letter, data-paper: kept, assessed separately (not in core counts)."
+D1,Duplicates,Same OpenAlex ID: none found in G1 or G2.
+D2,Duplicates,"Same normalised DOI: one record kept (rule D4), others excluded from core analysis with duplicate_of set."
+D3,Duplicates,Same normalised title + first author + publication year: if at most one record is a core type (or core records share a DOI) the group is a version group (high confidence) and only the kept record stays in analysis; otherwise all stay in analysis and the group is flagged needs_manual_check.
+D4,Duplicates,"Kept record = core type first, then non-preprint, then has DOI, then higher citation_count, then lower OpenAlex ID."
+D5,Duplicates,G2 record with the same title + first author + year as a G1 record is a version of a G1 work and is excluded from G2 core analysis.
+F1,Field,Analysis level = OpenAlex primary_topic field. Missing field kept as 'Unknown'.
+F2,Field,"Computer Science and Engineering are additionally broken down by subfield (analysis_category), because together they hold most G1 records."
+S1,Self-citation,"self_citation_flag = a citing work lists OpenAlex author ID A5091500375 or A5063313173 (add_self_citation_flag.py, unchanged)."
+S2,Self-citation,Records where a seed-author name appears with a different or missing author ID are flagged only; ID rule is not overridden.
+M1,Duplicates,"Groups flagged needs_manual_check were checked by hand (DOI resolution, venue, issue, pages, authors, abstract). 'same work': only the record kept by D4 stays in analysis; 'keep both': all stay. Decisions and evidence in manual_decisions.csv."
+S3,Self-citation,"G2 works whose author IDs include a seed author are flagged (seed_author_flag). They cite a G1 paper, not the seed, so they are not counted as self-citations of the seed; G2 counts are also given without them."
+Q1,Quality,Retracted works kept and flagged; core field-year counts are also given without them.

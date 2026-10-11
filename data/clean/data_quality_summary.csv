@@ -1,0 +1,35 @@
+metric,G1,G2
+Records,14638.0,9332.0
+Unique OpenAlex IDs,14638.0,9332.0
+Missing DOI,34.0,7.0
+Missing title,8.0,2.0
+Missing abstract,5944.0,3674.0
+Missing field (Unknown),86.0,27.0
+"Missing field, published 2026",85.0,24.0
+Missing venue,1354.0,326.0
+Missing language,469.0,363.0
+Language tagged English (%),96.0,95.4
+Missing author affiliation country,738.0,439.0
+Retracted (OpenAlex is_retracted),59.0,59.0
+Duplicate DOI groups (rule D2),0.0,2.0
+Title+first author+year groups (rule D3),100.0,68.0
+  of which checked by hand (M1),9.0,5.0
+  still awaiting manual check,0.0,0.0
+Records excluded as duplicate/version,103.0,78.0
+Manual-check groups judged same work,5.0,4.0
+Manual-check groups judged separate publications,4.0,1.0
+Core document types,13976.0,8970.0
+Non-core types assessed separately,587.0,334.0
+Excluded document types,75.0,28.0
+Added to OpenAlex after cutoff,0.0,1.0
+Seed-author name without seed author ID,4.0,3.0
+In core analysis,13970.0,8961.0
+"In core analysis, complete years 2016-2025",12505.0,7766.0
+"In core analysis, partial year 2026",1465.0,1195.0
+G2 records that are versions of G1 works (rule D5),,2.0
+"G2 works with a seed author (flag only, rule S3)",,66.0
+G2 core analysis without seed-author works,,8899.0
+Self-citations by author ID (rule S1),261.0,
+"Seed paper cited_by_count (OpenAlex, 2026-10-04)",14692.0,
+Gap: cited_by_count minus retrieved G1,54.0,
+G1 with abstract naming WOA in title/abstract/keywords (%),45.3,

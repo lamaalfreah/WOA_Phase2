@@ -1,0 +1,15 @@
+duplicate_group_id,decision,date,evidence
+G1-D004,same work,10/9/2026,DOI 10.21533/pen.v9i2.1818.g781 is not registered at doi.org (galley-file ID of article 1818); the other DOI resolves to PEN article 1818
+G1-D018,keep both,10/9/2026,"Two journals (SN Computer Science 4(2); Journal of Cyber Security 4(3), pp. 185-202): two publications"
+G1-D048,same work,10/9/2026,Both DOIs resolve to the same article page (journal.uod.ac article 3154)
+G1-D054,same work,10/9/2026,English and Russian editions of one paper (translation)
+G1-D067,same work,10/9/2026,"F1000Research article 15-436, version 1 and revised version 2"
+G1-D070,keep both,10/9/2026,"Two LNNS volumes (1020, pp. 139-148; 1043, pp. 375-384), different online dates, reworded abstract: two publications"
+G1-D072,keep both,10/9/2026,"Conference paper (SYNASC 2024, pp. 292-298) and journal article (WSEAS Trans. Comput. 23, pp. 211-217); author lists differ: two publications"
+G1-D079,keep both,10/9/2026,"Same journal but two issues and page ranges (34(12) pp. 880-897; 34(13) pp. 994-1010), abstract wording differs: two publications"
+G1-D098,same work,10/9/2026,Same chapter reprinted in a second IGI Global book
+G2-D026,keep both,10/9/2026,"Same journal, two articles (pp. 523-532 and pp. 253-262, published 6 and 23 June 2023), abstract wording differs: two publications"
+G2-D048,same work,10/9/2026,"Same conference, same pages (1733-1738) and date: one paper with two DOIs"
+G2-D055,same work,10/9/2026,All three DOIs resolve to the same article page (jstt.vn article 47)
+G2-D063,same work,10/9/2026,"Same volume, issue and pages (9(3-4), pp. 89-99): one paper with two DOIs"
+G2-D065,same work,10/9/2026,"Same conference, authors, pages and date: one paper with two DOIs"

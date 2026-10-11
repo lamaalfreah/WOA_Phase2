@@ -1,0 +1,199 @@
+﻿year,field_id,field,count_with_self,count_without_self,year_status
+2016,17,Computer Science,17,15,complete
+2016,18,Decision Sciences,1,1,complete
+2016,21,Energy,1,1,complete
+2016,22,Engineering,17,17,complete
+2016,23,Environmental Science,1,1,complete
+2016,36,Health Professions,1,1,complete
+2017,11,Agricultural and Biological Sciences,1,1,complete
+2017,13,"Biochemistry, Genetics and Molecular Biology",1,1,complete
+2017,17,Computer Science,88,82,complete
+2017,18,Decision Sciences,1,1,complete
+2017,20,"Economics, Econometrics and Finance",1,1,complete
+2017,21,Energy,4,4,complete
+2017,22,Engineering,60,60,complete
+2017,36,Health Professions,3,3,complete
+2017,27,Medicine,1,1,complete
+2017,31,Physics and Astronomy,1,1,complete
+2018,11,Agricultural and Biological Sciences,4,4,complete
+2018,14,"Business, Management and Accounting",3,3,complete
+2018,17,Computer Science,183,177,complete
+2018,19,Earth and Planetary Sciences,1,1,complete
+2018,20,"Economics, Econometrics and Finance",2,2,complete
+2018,21,Energy,12,11,complete
+2018,22,Engineering,146,144,complete
+2018,23,Environmental Science,2,2,complete
+2018,36,Health Professions,2,2,complete
+2018,27,Medicine,2,2,complete
+2018,31,Physics and Astronomy,5,5,complete
+2018,32,Psychology,3,3,complete
+2018,UNKNOWN,Unknown,1,1,complete
+2019,11,Agricultural and Biological Sciences,4,4,complete
+2019,13,"Biochemistry, Genetics and Molecular Biology",4,4,complete
+2019,14,"Business, Management and Accounting",4,4,complete
+2019,17,Computer Science,362,348,complete
+2019,18,Decision Sciences,8,8,complete
+2019,19,Earth and Planetary Sciences,6,6,complete
+2019,21,Energy,19,19,complete
+2019,22,Engineering,246,246,complete
+2019,23,Environmental Science,14,14,complete
+2019,36,Health Professions,5,5,complete
+2019,26,Mathematics,2,1,complete
+2019,27,Medicine,4,4,complete
+2019,28,Neuroscience,5,5,complete
+2019,31,Physics and Astronomy,8,8,complete
+2019,32,Psychology,1,1,complete
+2019,33,Social Sciences,1,1,complete
+2020,11,Agricultural and Biological Sciences,8,8,complete
+2020,13,"Biochemistry, Genetics and Molecular Biology",11,11,complete
+2020,14,"Business, Management and Accounting",4,4,complete
+2020,17,Computer Science,602,590,complete
+2020,18,Decision Sciences,21,21,complete
+2020,35,Dentistry,1,1,complete
+2020,19,Earth and Planetary Sciences,3,3,complete
+2020,20,"Economics, Econometrics and Finance",2,2,complete
+2020,21,Energy,9,8,complete
+2020,22,Engineering,350,346,complete
+2020,23,Environmental Science,25,25,complete
+2020,36,Health Professions,3,3,complete
+2020,25,Materials Science,1,1,complete
+2020,26,Mathematics,3,3,complete
+2020,27,Medicine,26,24,complete
+2020,28,Neuroscience,10,10,complete
+2020,31,Physics and Astronomy,9,8,complete
+2020,32,Psychology,1,1,complete
+2021,11,Agricultural and Biological Sciences,16,16,complete
+2021,13,"Biochemistry, Genetics and Molecular Biology",15,15,complete
+2021,14,"Business, Management and Accounting",11,11,complete
+2021,15,Chemical Engineering,2,2,complete
+2021,17,Computer Science,797,772,complete
+2021,18,Decision Sciences,38,38,complete
+2021,19,Earth and Planetary Sciences,8,8,complete
+2021,20,"Economics, Econometrics and Finance",2,2,complete
+2021,21,Energy,35,34,complete
+2021,22,Engineering,551,542,complete
+2021,23,Environmental Science,37,37,complete
+2021,36,Health Professions,10,9,complete
+2021,25,Materials Science,5,5,complete
+2021,26,Mathematics,6,6,complete
+2021,27,Medicine,37,33,complete
+2021,28,Neuroscience,10,10,complete
+2021,31,Physics and Astronomy,12,11,complete
+2021,32,Psychology,2,2,complete
+2021,33,Social Sciences,9,9,complete
+2022,11,Agricultural and Biological Sciences,22,21,complete
+2022,12,Arts and Humanities,1,1,complete
+2022,13,"Biochemistry, Genetics and Molecular Biology",21,21,complete
+2022,14,"Business, Management and Accounting",16,16,complete
+2022,15,Chemical Engineering,2,2,complete
+2022,16,Chemistry,6,6,complete
+2022,17,Computer Science,1109,1074,complete
+2022,18,Decision Sciences,38,38,complete
+2022,35,Dentistry,1,1,complete
+2022,19,Earth and Planetary Sciences,9,9,complete
+2022,20,"Economics, Econometrics and Finance",8,8,complete
+2022,21,Energy,47,47,complete
+2022,22,Engineering,715,710,complete
+2022,23,Environmental Science,65,65,complete
+2022,36,Health Professions,11,11,complete
+2022,24,Immunology and Microbiology,4,1,complete
+2022,25,Materials Science,4,4,complete
+2022,26,Mathematics,14,14,complete
+2022,27,Medicine,70,67,complete
+2022,28,Neuroscience,23,23,complete
+2022,31,Physics and Astronomy,16,15,complete
+2022,32,Psychology,8,8,complete
+2022,33,Social Sciences,9,9,complete
+2023,11,Agricultural and Biological Sciences,25,25,complete
+2023,12,Arts and Humanities,2,2,complete
+2023,13,"Biochemistry, Genetics and Molecular Biology",18,18,complete
+2023,14,"Business, Management and Accounting",22,22,complete
+2023,15,Chemical Engineering,4,4,complete
+2023,16,Chemistry,10,10,complete
+2023,17,Computer Science,1001,972,complete
+2023,18,Decision Sciences,28,27,complete
+2023,19,Earth and Planetary Sciences,15,15,complete
+2023,20,"Economics, Econometrics and Finance",7,7,complete
+2023,21,Energy,38,38,complete
+2023,22,Engineering,788,782,complete
+2023,23,Environmental Science,59,59,complete
+2023,36,Health Professions,13,13,complete
+2023,24,Immunology and Microbiology,1,1,complete
+2023,25,Materials Science,9,9,complete
+2023,26,Mathematics,8,8,complete
+2023,27,Medicine,67,66,complete
+2023,28,Neuroscience,15,15,complete
+2023,31,Physics and Astronomy,16,15,complete
+2023,32,Psychology,1,1,complete
+2023,33,Social Sciences,6,6,complete
+2023,34,Veterinary,1,1,complete
+2024,11,Agricultural and Biological Sciences,26,26,complete
+2024,12,Arts and Humanities,1,1,complete
+2024,13,"Biochemistry, Genetics and Molecular Biology",28,28,complete
+2024,14,"Business, Management and Accounting",16,15,complete
+2024,15,Chemical Engineering,5,5,complete
+2024,16,Chemistry,19,19,complete
+2024,17,Computer Science,1057,1025,complete
+2024,18,Decision Sciences,46,45,complete
+2024,19,Earth and Planetary Sciences,9,9,complete
+2024,20,"Economics, Econometrics and Finance",4,4,complete
+2024,21,Energy,49,48,complete
+2024,22,Engineering,985,978,complete
+2024,23,Environmental Science,71,71,complete
+2024,36,Health Professions,16,15,complete
+2024,24,Immunology and Microbiology,2,2,complete
+2024,25,Materials Science,8,8,complete
+2024,26,Mathematics,5,5,complete
+2024,27,Medicine,55,54,complete
+2024,28,Neuroscience,21,21,complete
+2024,31,Physics and Astronomy,13,13,complete
+2024,32,Psychology,3,3,complete
+2024,33,Social Sciences,8,8,complete
+2025,11,Agricultural and Biological Sciences,38,38,complete
+2025,12,Arts and Humanities,1,1,complete
+2025,13,"Biochemistry, Genetics and Molecular Biology",16,16,complete
+2025,14,"Business, Management and Accounting",25,24,complete
+2025,15,Chemical Engineering,4,4,complete
+2025,16,Chemistry,15,15,complete
+2025,17,Computer Science,971,949,complete
+2025,18,Decision Sciences,51,51,complete
+2025,35,Dentistry,2,2,complete
+2025,19,Earth and Planetary Sciences,17,17,complete
+2025,20,"Economics, Econometrics and Finance",4,4,complete
+2025,21,Energy,49,49,complete
+2025,22,Engineering,931,928,complete
+2025,23,Environmental Science,95,95,complete
+2025,36,Health Professions,12,12,complete
+2025,24,Immunology and Microbiology,2,2,complete
+2025,25,Materials Science,10,10,complete
+2025,26,Mathematics,5,5,complete
+2025,27,Medicine,39,39,complete
+2025,28,Neuroscience,17,17,complete
+2025,31,Physics and Astronomy,12,12,complete
+2025,32,Psychology,2,2,complete
+2025,33,Social Sciences,11,11,complete
+2026,11,Agricultural and Biological Sciences,30,30,partial
+2026,12,Arts and Humanities,2,2,partial
+2026,13,"Biochemistry, Genetics and Molecular Biology",10,10,partial
+2026,14,"Business, Management and Accounting",16,15,partial
+2026,15,Chemical Engineering,1,1,partial
+2026,16,Chemistry,11,11,partial
+2026,17,Computer Science,570,564,partial
+2026,18,Decision Sciences,25,25,partial
+2026,35,Dentistry,2,2,partial
+2026,19,Earth and Planetary Sciences,12,12,partial
+2026,20,"Economics, Econometrics and Finance",5,5,partial
+2026,21,Energy,31,31,partial
+2026,22,Engineering,570,567,partial
+2026,23,Environmental Science,74,74,partial
+2026,36,Health Professions,8,8,partial
+2026,25,Materials Science,10,10,partial
+2026,26,Mathematics,8,8,partial
+2026,27,Medicine,36,35,partial
+2026,28,Neuroscience,10,10,partial
+2026,29,Nursing,1,1,partial
+2026,31,Physics and Astronomy,8,8,partial
+2026,32,Psychology,6,6,partial
+2026,33,Social Sciences,7,7,partial
+2026,UNKNOWN,Unknown,85,84,partial
+2026,34,Veterinary,1,1,partial

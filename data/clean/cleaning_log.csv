@@ -1,0 +1,1344 @@
+record_id,generation,rule_id,action,reason,related_record,decided_by,date
+W4210415484,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4290420276 (preprint vs article); version of the same work",W4290420276,rule,2026-10-09
+W4245328478,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3217450986 (other vs other); version of the same work",W3217450986,rule,2026-10-09
+W4410539496,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4412494150 (preprint vs article); version of the same work",W4412494150,rule,2026-10-09
+W3164942763,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4255227695 (preprint vs article); version of the same work",W4255227695,rule,2026-10-09
+W4414754821,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4416688067 (preprint vs article); version of the same work",W4416688067,rule,2026-10-09
+W4386324535,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4389396452 (preprint vs article); version of the same work",W4389396452,rule,2026-10-09
+W4282840417,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4294025663 (preprint vs article); version of the same work",W4294025663,rule,2026-10-09
+W4295309514,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4306407124 (preprint vs article); version of the same work",W4306407124,rule,2026-10-09
+W4379385539,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4388899211 (preprint vs article); version of the same work",W4388899211,rule,2026-10-09
+W4251486647,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3012071895 (preprint vs article); version of the same work",W3012071895,rule,2026-10-09
+W4243158039,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3012071895 (preprint vs article); version of the same work",W3012071895,rule,2026-10-09
+W3123417849,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3001336443 (preprint vs article); version of the same work",W3001336443,rule,2026-10-09
+W4390949435,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4394871519 (preprint vs article); version of the same work",W4394871519,rule,2026-10-09
+W4399925559,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4404911357 (preprint vs article); version of the same work",W4404911357,rule,2026-10-09
+W7140628354,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7154834994 (preprint vs article); version of the same work",W7154834994,rule,2026-10-09
+W2949423083,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W2923345427 (preprint vs article); version of the same work",W2923345427,rule,2026-10-09
+W4283363702,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4280641021 (preprint vs article); version of the same work",W4280641021,rule,2026-10-09
+W4251594107,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3194382969 (preprint vs article); version of the same work",W3194382969,rule,2026-10-09
+W4392946635,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4399019499 (preprint vs article); version of the same work",W4399019499,rule,2026-10-09
+W4210328386,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3191647205 (preprint vs article); version of the same work",W3191647205,rule,2026-10-09
+W4306410861,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4309210383 (preprint vs article); version of the same work",W4309210383,rule,2026-10-09
+W4407729421,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4412438844 (preprint vs article); version of the same work",W4412438844,rule,2026-10-09
+W4245172401,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3174663623 (preprint vs article); version of the same work",W3174663623,rule,2026-10-09
+W4401593258,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4402200351 (preprint vs article); version of the same work",W4402200351,rule,2026-10-09
+W4362699872,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4387700378 (preprint vs article); version of the same work",W4387700378,rule,2026-10-09
+W4385356498,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4389304567 (preprint vs article); version of the same work",W4389304567,rule,2026-10-09
+W4399193962,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4402278512 (preprint vs article); version of the same work",W4402278512,rule,2026-10-09
+W4213181371,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4284898484 (preprint vs article); version of the same work",W4284898484,rule,2026-10-09
+W3135215463,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3160938168 (preprint vs conference-paper); version of the same work",W3160938168,rule,2026-10-09
+W4414640653,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4415903699 (preprint vs article); version of the same work",W4415903699,rule,2026-10-09
+W4293295110,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4293295047 (preprint vs preprint); version of the same work",W4293295047,rule,2026-10-09
+W4311219000,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4280511950 (preprint vs preprint); version of the same work",W4280511950,rule,2026-10-09
+W4388808583,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4389079903 (preprint vs preprint); version of the same work",W4389079903,rule,2026-10-09
+W4285709456,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3000981632 (preprint vs article); version of the same work",W3000981632,rule,2026-10-09
+W3004013122,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3000981632 (preprint vs article); version of the same work",W3000981632,rule,2026-10-09
+W3168633285,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3205216213 (preprint vs article); version of the same work",W3205216213,rule,2026-10-09
+W3180490357,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3184813331 (preprint vs article); version of the same work",W3184813331,rule,2026-10-09
+W4327715152,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4316143915 (peer-review vs peer-review); version of the same work",W4316143915,rule,2026-10-09
+W4210996398,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3082974932 (preprint vs article); version of the same work",W3082974932,rule,2026-10-09
+W4395445940,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4405898827 (preprint vs article); version of the same work",W4405898827,rule,2026-10-09
+W4390574141,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4402582337 (preprint vs article); version of the same work",W4402582337,rule,2026-10-09
+W4317547000,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4321489052 (preprint vs preprint); version of the same work",W4321489052,rule,2026-10-09
+W4415719756,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4406937362 (preprint vs preprint); version of the same work",W4406937362,rule,2026-10-09
+W4391100513,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4394615197 (preprint vs article); version of the same work",W4394615197,rule,2026-10-09
+W4405642921,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4396234433 (preprint vs preprint); version of the same work",W4396234433,rule,2026-10-09
+W4391310317,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4396636515 (preprint vs article); version of the same work",W4396636515,rule,2026-10-09
+W4296492827,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4310207697 (preprint vs article); version of the same work",W4310207697,rule,2026-10-09
+W4412147855,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4413181276 (preprint vs article); version of the same work",W4413181276,rule,2026-10-09
+W4290780044,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4224314705 (preprint vs article); version of the same work",W4224314705,rule,2026-10-09
+W7163904037,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7169786544 (preprint vs article); version of the same work",W7169786544,rule,2026-10-09
+W7118169959,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7155557999 (preprint vs article); version of the same work",W7155557999,rule,2026-10-09
+W7161399618,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7215108327 (preprint vs article); version of the same work",W7215108327,rule,2026-10-09
+W4249663160,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4236773590 (preprint vs preprint); version of the same work",W4236773590,rule,2026-10-09
+W4296455982,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4312792162 (preprint vs article); version of the same work",W4312792162,rule,2026-10-09
+W7171734678,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7166850321 (preprint vs preprint); version of the same work",W7166850321,rule,2026-10-09
+W4381415118,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4390006113 (preprint vs article); version of the same work",W4390006113,rule,2026-10-09
+W4229996330,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3002215583 (preprint vs article); version of the same work",W3002215583,rule,2026-10-09
+W3004057630,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3002215583 (preprint vs article); version of the same work",W3002215583,rule,2026-10-09
+W4214819560,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3002215583 (preprint vs article); version of the same work",W3002215583,rule,2026-10-09
+W4362669012,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4384159623 (preprint vs article); version of the same work",W4384159623,rule,2026-10-09
+W4284666628,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4306409756 (preprint vs article); version of the same work",W4306409756,rule,2026-10-09
+W4412771205,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4415706451 (preprint vs article); version of the same work",W4415706451,rule,2026-10-09
+W4247503891,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W2776539381 (preprint vs conference-paper); version of the same work",W2776539381,rule,2026-10-09
+W4392499598,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4399732748 (preprint vs article); version of the same work",W4399732748,rule,2026-10-09
+W4313239156,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4306809561 (preprint vs preprint); version of the same work",W4306809561,rule,2026-10-09
+W4251535532,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3136397704 (preprint vs article); version of the same work",W3136397704,rule,2026-10-09
+W4414113780,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7116885155 (preprint vs article); version of the same work",W7116885155,rule,2026-10-09
+W4408425376,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4416291727 (preprint vs article); version of the same work",W4416291727,rule,2026-10-09
+W4283369549,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4312983545 (preprint vs article); version of the same work",W4312983545,rule,2026-10-09
+W4372319883,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4382137125 (preprint vs article); version of the same work",W4382137125,rule,2026-10-09
+W4293196307,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4295394324 (preprint vs article); version of the same work",W4295394324,rule,2026-10-09
+W4313640679,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4327738856 (preprint vs article); version of the same work",W4327738856,rule,2026-10-09
+W4221074529,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4306897026 (preprint vs article); version of the same work",W4306897026,rule,2026-10-09
+W4319320662,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4322493542 (preprint vs article); version of the same work",W4322493542,rule,2026-10-09
+W3164761999,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4246632080 (preprint vs article); version of the same work",W4246632080,rule,2026-10-09
+W7122446658,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7154454062 (preprint vs article); version of the same work",W7154454062,rule,2026-10-09
+W3160541841,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4234500091 (preprint vs article); version of the same work",W4234500091,rule,2026-10-09
+W4367317921,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4380084308 (preprint vs article); version of the same work",W4380084308,rule,2026-10-09
+W7135234403,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7163393704 (preprint vs article); version of the same work",W7163393704,rule,2026-10-09
+W4393374060,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4401614586 (preprint vs article); version of the same work",W4401614586,rule,2026-10-09
+W4398151241,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4401614586 (preprint vs article); version of the same work",W4401614586,rule,2026-10-09
+W4398141197,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4402430147 (preprint vs article); version of the same work",W4402430147,rule,2026-10-09
+W4410290292,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4413139320 (preprint vs article); version of the same work",W4413139320,rule,2026-10-09
+W7141126182,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7171364298 (preprint vs article); version of the same work",W7171364298,rule,2026-10-09
+W7164928392,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7164896996 (preprint vs preprint); version of the same work",W7164896996,rule,2026-10-09
+W4412862773,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4410550049 (preprint vs preprint); version of the same work",W4410550049,rule,2026-10-09
+W4280538558,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4283070481 (preprint vs article); version of the same work",W4283070481,rule,2026-10-09
+W4225263882,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4283828779 (preprint vs article); version of the same work",W4283828779,rule,2026-10-09
+W3138126160,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4234818230 (preprint vs article); version of the same work",W4234818230,rule,2026-10-09
+W4298414148,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4313215811 (preprint vs article); version of the same work",W4313215811,rule,2026-10-09
+W4391538613,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4401168843 (preprint vs article); version of the same work",W4401168843,rule,2026-10-09
+W7163655439,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W7214091938 (preprint vs article); version of the same work",W7214091938,rule,2026-10-09
+W3120526850,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3138375109 (preprint vs article); version of the same work",W3138375109,rule,2026-10-09
+W3129731272,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3138375109 (preprint vs article); version of the same work",W3138375109,rule,2026-10-09
+W4386717013,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4389995408 (preprint vs article); version of the same work",W4389995408,rule,2026-10-09
+W4238953858,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W3184658284 (preprint vs article); version of the same work",W3184658284,rule,2026-10-09
+W4404051153,G1,D3,exclude_from_core_analysis,"Same title, first author and year as W4394843208 (preprint vs preprint); version of the same work",W4394843208,rule,2026-10-09
+W3145607860,G1,M1,exclude_from_core_analysis,Manual check: same work as W4251017816. DOI 10.21533/pen.v9i2.1818.g781 is not registered at doi.org (galley-file ID of article 1818); the other DOI resolves to PEN article 1818,W4251017816,manual,2026-10-09
+W4312105931,G1,M1,keep,"Manual check: separate publication, kept. Two journals (SN Computer Science 4(2); Journal of Cyber Security 4(3), pp. 185-202): two publications",,manual,2026-10-09
+W4313175926,G1,M1,keep,"Manual check: separate publication, kept. Two journals (SN Computer Science 4(2); Journal of Cyber Security 4(3), pp. 185-202): two publications",W4312105931,manual,2026-10-09
+W4391073196,G1,M1,exclude_from_core_analysis,Manual check: same work as W4391073186. Both DOIs resolve to the same article page (journal.uod.ac article 3154),W4391073186,manual,2026-10-09
+W4396920847,G1,M1,exclude_from_core_analysis,Manual check: same work as W4401367936. English and Russian editions of one paper (translation),W4401367936,manual,2026-10-09
+W4396921693,G1,M1,exclude_from_core_analysis,Manual check: same work as W4401367936. English and Russian editions of one paper (translation),W4401367936,manual,2026-10-09
+W7155633383,G1,M1,exclude_from_core_analysis,"Manual check: same work as W7140321023. F1000Research article 15-436, version 1 and revised version 2",W7140321023,manual,2026-10-09
+W4400913589,G1,M1,keep,"Manual check: separate publication, kept. Two LNNS volumes (1020, pp. 139-148; 1043, pp. 375-384), different online dates, reworded abstract: two publications",,manual,2026-10-09
+W4403076795,G1,M1,keep,"Manual check: separate publication, kept. Two LNNS volumes (1020, pp. 139-148; 1043, pp. 375-384), different online dates, reworded abstract: two publications",W4400913589,manual,2026-10-09
+W4407951102,G1,M1,keep,"Manual check: separate publication, kept. Conference paper (SYNASC 2024, pp. 292-298) and journal article (WSEAS Trans. Comput. 23, pp. 211-217); author lists differ: two publications",,manual,2026-10-09
+W4404077330,G1,M1,keep,"Manual check: separate publication, kept. Conference paper (SYNASC 2024, pp. 292-298) and journal article (WSEAS Trans. Comput. 23, pp. 211-217); author lists differ: two publications",W4407951102,manual,2026-10-09
+W4247239985,G1,M1,keep,"Manual check: separate publication, kept. Same journal but two issues and page ranges (34(12) pp. 880-897; 34(13) pp. 994-1010), abstract wording differs: two publications",,manual,2026-10-09
+W3043342757,G1,M1,keep,"Manual check: separate publication, kept. Same journal but two issues and page ranges (34(12) pp. 880-897; 34(13) pp. 994-1010), abstract wording differs: two publications",W4247239985,manual,2026-10-09
+W4226544641,G1,M1,exclude_from_core_analysis,Manual check: same work as W4226300342. Same chapter reprinted in a second IGI Global book,W4226300342,manual,2026-10-09
+W3103047500,G1,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W4399546976,G1,T1,exclude_from_core_analysis,Document type 'dataset' is not a research output,,rule,2026-10-09
+W4400562231,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W3114757628,G1,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W4403459642,G1,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W4238052827,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4212979772,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4213162761,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4213242144,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4213368403,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4214742692,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4220815496,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4220972973,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4220981166,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4221001384,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4221007437,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4221027432,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225380643,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225392949,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225394095,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225417020,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225422148,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4225423544,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4242313800,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4247621284,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4295328733,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295328768,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295328883,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295328884,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295328893,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295329085,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295329114,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295329705,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4295329854,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4313465953,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4316143915,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4319832615,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4327715152,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4366281278,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4366281328,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4366281329,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4381955545,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4383262661,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4383262662,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4383262696,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4383262833,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4383262834,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4383263022,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4385705669,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4385705721,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4385705736,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4385706202,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4386780280,G1,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W4388671257,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4388671273,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4388671282,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4388671665,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4391224637,G1,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4399591118,G1,T1,exclude_from_core_analysis,Document type 'dataset' is not a research output,,rule,2026-10-09
+W4401378372,G1,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W4402025934,G1,T1,exclude_from_core_analysis,Document type 'dataset' is not a research output,,rule,2026-10-09
+W4406340069,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340070,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340071,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340072,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340073,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340074,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340097,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340098,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4406340099,G1,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W7161274253,G1,T1,exclude_from_core_analysis,Document type 'dataset' is not a research output,,rule,2026-10-09
+W7169805401,G1,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W7202193878,G1,T1,exclude_from_core_analysis,Document type 'erratum' is not a research output,,rule,2026-10-09
+W7211877188,G1,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W7212014598,G1,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W2557528833,G1,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W2919559268,G1,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4300970247,G1,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4307185868,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3016490470,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2770273973,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4292829086,G1,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W2885991329,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2785042515,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285709456,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312708210,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4223620970,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309241540,G1,T2,exclude_from_core_analysis,Document type 'conference-abstract' is assessed separately from core counts,,rule,2026-10-09
+W2865341353,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393319924,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4213354282,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4295309514,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392925322,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3204183068,G1,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W4290780044,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388303945,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3045895910,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4211000201,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3004013122,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3113546977,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3144776834,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4283363702,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3013683437,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3112721635,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4210996398,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367317921,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3113036786,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3123417849,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3166433133,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4372319883,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3180490357,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4280538558,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313557649,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3187087583,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4251486647,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388463663,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389987112,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2795457877,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3034519963,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3214418531,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4251535532,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4282840417,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4310263555,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3007530007,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3120526850,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4205407567,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4239872726,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4295860487,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4304808567,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313907631,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362699872,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386324535,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390949435,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392948572,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2884189257,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3213283535,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200038149,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200388114,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4298414148,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367317998,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4383466205,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387952684,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389861908,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3033927319,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3166202309,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4229996330,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4290851422,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4300961361,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4319320662,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385259472,G1,T2,exclude_from_core_analysis,Document type 'report' is assessed separately from core counts,,rule,2026-10-09
+W4386717013,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391116374,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W2950950202,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W2969568479,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3015207837,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3023934940,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3106934057,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3136835874,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3168633285,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3170795366,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3179130826,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3207100489,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4211072900,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4213181371,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4223623339,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4225263882,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4247119630,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285043876,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4296050053,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4296921912,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4298120809,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4310608227,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4312199438,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4321489052,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385520714,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387730811,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387777405,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388703917,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391310317,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398221104,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399193962,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402856725,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403711890,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405352539,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W2789303065,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3003027062,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3015340441,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3093082715,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3152783481,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3162690222,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3164942763,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3192363961,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3192891996,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3197861515,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200350774,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4210328386,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4210569201,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4221026884,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4221074529,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4247503891,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4251594107,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285232609,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285684889,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4288708949,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4290830490,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293196307,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4294390845,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4304694178,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4306410861,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4307208610,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4310189334,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4310518892,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312051002,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312117330,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313487190,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313640679,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4317904921,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385728668,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385760749,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386125357,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388658529,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389079903,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390893117,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391538613,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391654256,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392292126,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392499598,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393040775,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396772546,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396890116,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396933156,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400334304,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401334259,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401589123,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403181467,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403904799,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2626077186,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W2980792388,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3004057630,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3036085511,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3045509316,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3129731272,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3138126160,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3152647317,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3181866282,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3202774823,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200563285,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4205952164,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4206449000,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4210415484,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4223963230,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4224212545,G1,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W4226486873,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4239403648,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4243158039,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4245172401,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4280511950,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4283369549,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4283462158,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4284666628,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4284886131,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4285165639,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285251910,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4289523151,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4297384859,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4297496648,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311796876,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311884407,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312099479,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313456862,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313557786,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4321601571,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4353056614,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362669012,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367596413,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4368368734,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4380029070,G1,T2,exclude_from_core_analysis,Document type 'report' is assessed separately from core counts,,rule,2026-10-09
+W4381278905,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381413987,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384067649,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4385298305,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385310118,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386619152,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386857612,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386901360,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386966862,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387318885,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388139125,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388296649,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388808583,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389080737,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389196557,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390562436,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391100513,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391134130,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391824272,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391999670,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392585630,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392627084,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392857494,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393563255,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4395445940,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4395446695,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400470427,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401051936,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401587726,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4404153627,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405370637,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406074180,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410461324,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412147855,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413244067,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415237008,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7128305285,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W7134891788,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2890667987,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W2894415853,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2949423083,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2971104646,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W2971158885,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2995255241,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3010132661,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3090093223,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3096402049,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3119083243,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3119655895,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3125835729,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3135215463,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3138284227,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3140118021,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3140924362,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3154894461,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3160541841,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3164761999,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3170361725,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3175570531,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3178303121,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3179152904,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3180932516,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3196661240,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3196853400,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3200938029,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3212439966,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3212938000,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3214228082,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3214690885,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3217450986,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4200005603,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4206993805,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4212853680,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4214819560,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4220864672,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4226129318,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4226281753,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4236773590,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4238953858,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4240820320,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4241916416,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4245328478,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4245418621,G1,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4249663160,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4282827548,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4284681508,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4285522012,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285705644,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293100518,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293295047,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293295110,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4296455982,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4296492827,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4297997637,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4298006131,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4300124622,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4302010866,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4306809561,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4307878734,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308072123,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308391728,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308573506,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308843823,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309174092,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4309452662,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4309680911,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309690139,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4310649043,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4310990644,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311219000,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311702159,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312102224,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313239156,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313457173,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4315784127,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4317373339,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4317547000,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4320726323,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4323665484,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4324360772,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4361216907,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4365138460,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4377023958,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4378420445,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4379385539,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381325895,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381415118,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4382987715,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384931731,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385069211,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385070554,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385198142,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385198329,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385225135,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385319999,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385355083,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385356498,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385521688,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385552283,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385621422,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386033100,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386033158,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386253574,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386332086,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386417946,G1,T2,exclude_from_core_analysis,Document type 'report' is assessed separately from core counts,,rule,2026-10-09
+W4386418336,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386494611,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386759825,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386845617,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4386919093,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386921618,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387009536,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387042354,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387068835,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387306111,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387454270,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387588519,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387646084,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387758470,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387788816,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387861197,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387918260,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387940085,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387943463,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388468124,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388557089,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388626797,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388645558,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388701819,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388738979,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388743869,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388878730,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388962150,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388994809,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389003979,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389473785,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389475476,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389560132,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389632150,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389987095,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390141347,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390561583,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390574141,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390752229,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390796538,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390885518,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390906602,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390948839,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391404661,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391572156,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391621148,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391885008,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392168255,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392565731,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392860668,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392946635,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393059740,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393241792,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393374060,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393377567,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393393471,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393621903,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393955176,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4394843208,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4395471219,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396234433,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396850991,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396852255,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396941888,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398141197,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398151241,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398175153,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398221664,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399334869,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399373339,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399453109,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399516622,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399811375,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399925559,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399969689,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400346114,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400949733,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400958672,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401001717,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401130034,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401552998,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401593258,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401774680,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402001403,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402123500,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402591578,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402842476,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402844911,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402983719,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403391625,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403423427,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403763105,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403788668,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4404018235,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4404051153,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405311682,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405466732,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405642921,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405757890,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4405986890,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406212337,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406627616,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406791054,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4406909037,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406937362,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407147196,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407315714,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407729421,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4408425376,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4408537235,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4408817544,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409403279,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409542924,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409643489,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409969487,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410057962,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410119135,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410256248,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410290292,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410510438,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410539496,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410550049,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410571346,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410794708,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4411386964,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412003375,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412025901,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412107653,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412187268,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412201800,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412436999,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412537847,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412771205,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412862773,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412938223,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412953431,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413023009,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413087495,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413188182,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413826808,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414000623,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414001564,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414029527,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414101654,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414113780,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414306446,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414544159,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414640653,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414652659,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414754821,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414800730,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415443815,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415449343,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415622829,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415641112,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415693193,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415719756,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416126506,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416185278,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416292304,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416542453,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416735671,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4417327357,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7105917939,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7106716031,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7117164881,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7117543296,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7118169959,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7118175810,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W7118401280,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7118559064,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7122446658,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7123340638,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7125685528,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7125707050,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7125783747,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7127091967,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7128248061,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7128720485,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7130380536,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7130860135,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7131315178,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7134198903,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7135234403,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7138959569,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7139929934,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7140628354,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7141126182,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7141188402,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7147338798,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7148992764,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7149379194,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7149606654,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7151777856,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7152050024,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7152739280,G1,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7153224646,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7155607264,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7160141726,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7161293797,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7161399618,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162293147,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162636655,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7163011302,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7163655439,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7163883084,G1,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W7163904037,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164039708,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164367931,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164504005,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164573258,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164896996,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164928392,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7165776717,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7166850321,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7167090343,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7167831550,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7169826699,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7169845280,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7170469029,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7170934374,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7171734678,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7196922420,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7202160128,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7202286567,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7203485621,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7203707214,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7203780656,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7203826947,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7204451996,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7204520268,G1,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W7204867409,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7204892977,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7212114341,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7213950996,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7214000069,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7214011485,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7214915484,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7215090545,G1,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7215101846,G1,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W2790763152,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3042179604,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3197685881,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4283687890,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3159941409,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W2793096833,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3168231565,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391721078,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4400351763,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3016255792,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3199288670,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3004859286,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W2999362129,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3038037046,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3173786180,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3216741342,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3200729100,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4308933518,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4220893010,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W2904044376,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3091816121,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3171619937,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4220918508,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3198450359,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4386290498,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4381510153,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4283016312,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4293060719,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4210659297,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4283218639,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4293355282,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4296001664,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4382603270,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4313460784,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4287880009,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4385246346,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4306763645,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4281258837,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4224881361,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3158360489,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4281741257,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4385342330,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391692294,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4392705250,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4288721982,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391983768,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4293235487,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3103047500,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3114757628,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4403459642,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4393563255,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4293086469,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4293124778,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4311920977,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4386780280,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4389781718,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4390885518,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4401378372,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4411386964,G1,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4362672383,G1,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (no author ID); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W3023573935,G1,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (no author ID); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W7127685019,G1,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (A5124007815); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W7172389027,G1,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (A5144385404); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W3166174611,G2,D2,exclude_from_core_analysis,Same DOI (10.1016/j.eswa.2021.116029) as W3205895791; kept record chosen by rule D4,W3205895791,rule,2026-10-09
+W2950398529,G2,D2,exclude_from_core_analysis,Same DOI (10.1145/3485128) as W4210916416; kept record chosen by rule D4,W4210916416,rule,2026-10-09
+W4250003776,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3109738825 (preprint vs article); version of the same work",W3109738825,rule,2026-10-09
+W4399164924,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4400276337 (preprint vs conference-paper); version of the same work",W4400276337,rule,2026-10-09
+W4393011206,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4399262711 (preprint vs article); version of the same work",W4399262711,rule,2026-10-09
+W4245894815,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3081739105 (preprint vs article); version of the same work",W3081739105,rule,2026-10-09
+W4255396500,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3081739105 (preprint vs article); version of the same work",W3081739105,rule,2026-10-09
+W4390483757,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4399861730 (preprint vs article); version of the same work",W4399861730,rule,2026-10-09
+W4367040517,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4383820077 (preprint vs article); version of the same work",W4383820077,rule,2026-10-09
+W3211318450,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3210981004 (preprint vs article); version of the same work",W3210981004,rule,2026-10-09
+W4389290571,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4389290570 (preprint vs preprint); version of the same work",W4389290570,rule,2026-10-09
+W4237395034,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4248270998 (preprint vs preprint); version of the same work",W4248270998,rule,2026-10-09
+W4256540288,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4248270998 (preprint vs preprint); version of the same work",W4248270998,rule,2026-10-09
+W4381513206,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4388086833 (preprint vs article); version of the same work",W4388086833,rule,2026-10-09
+W4317399543,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4389289186 (preprint vs article); version of the same work",W4389289186,rule,2026-10-09
+W4253665432,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3042572199 (preprint vs preprint); version of the same work",W3042572199,rule,2026-10-09
+W4401733113,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4405841167 (preprint vs article); version of the same work",W4405841167,rule,2026-10-09
+W4308820126,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4308696876 (preprint vs preprint); version of the same work",W4308696876,rule,2026-10-09
+W4246124986,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3025648828 (preprint vs article); version of the same work",W3025648828,rule,2026-10-09
+W4247409727,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3025648828 (preprint vs article); version of the same work",W3025648828,rule,2026-10-09
+W4293248470,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4293064337 (preprint vs preprint); version of the same work",W4293064337,rule,2026-10-09
+W4317831265,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4385877308 (preprint vs article); version of the same work",W4385877308,rule,2026-10-09
+W4391400433,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4392919298 (preprint vs article); version of the same work",W4392919298,rule,2026-10-09
+W4386459810,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4387608004 (preprint vs article); version of the same work",W4387608004,rule,2026-10-09
+W4281755767,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4308160339 (preprint vs article); version of the same work",W4308160339,rule,2026-10-09
+W4285302048,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4292622230 (preprint vs article); version of the same work",W4292622230,rule,2026-10-09
+W4376618094,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4384153692 (preprint vs article); version of the same work",W4384153692,rule,2026-10-09
+W4400568897,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4402783694 (preprint vs article); version of the same work",W4402783694,rule,2026-10-09
+W3184015565,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3195560328 (preprint vs article); version of the same work",W3195560328,rule,2026-10-09
+W4362607182,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4362693782 (preprint vs preprint); version of the same work",W4362693782,rule,2026-10-09
+W4362607269,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4362693782 (preprint vs preprint); version of the same work",W4362693782,rule,2026-10-09
+W2999033430,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W2992907810 (preprint vs article); version of the same work",W2992907810,rule,2026-10-09
+W4394627420,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4401991846 (preprint vs article); version of the same work",W4401991846,rule,2026-10-09
+W4399806283,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4404623497 (preprint vs article); version of the same work",W4404623497,rule,2026-10-09
+W7115558239,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W7114988875 (preprint vs preprint); version of the same work",W7114988875,rule,2026-10-09
+W4384347105,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4386578625 (preprint vs article); version of the same work",W4386578625,rule,2026-10-09
+W4327546687,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4381597994 (preprint vs article); version of the same work",W4381597994,rule,2026-10-09
+W4229057526,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4229030842 (preprint vs preprint); version of the same work",W4229030842,rule,2026-10-09
+W4285799362,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4281572286 (preprint vs preprint); version of the same work",W4281572286,rule,2026-10-09
+W4318816530,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4313255463 (preprint vs article); version of the same work",W4313255463,rule,2026-10-09
+W4396783186,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4399744636 (preprint vs article); version of the same work",W4399744636,rule,2026-10-09
+W4200358449,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4200524953 (preprint vs preprint); version of the same work",W4200524953,rule,2026-10-09
+W4200592000,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4200524953 (preprint vs preprint); version of the same work",W4200524953,rule,2026-10-09
+W4386055897,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4386056057 (preprint vs preprint); version of the same work",W4386056057,rule,2026-10-09
+W4391808560,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4399386996 (preprint vs article); version of the same work",W4399386996,rule,2026-10-09
+W4393281581,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4400645233 (preprint vs article); version of the same work",W4400645233,rule,2026-10-09
+W4407461547,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4406947120 (preprint vs preprint); version of the same work",W4406947120,rule,2026-10-09
+W4387623648,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4387575731 (preprint vs preprint); version of the same work",W4387575731,rule,2026-10-09
+W4387350045,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4391114964 (preprint vs article); version of the same work",W4391114964,rule,2026-10-09
+W4387501255,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4391114964 (preprint vs article); version of the same work",W4391114964,rule,2026-10-09
+W7128509635,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W7164045552 (preprint vs article); version of the same work",W7164045552,rule,2026-10-09
+W4391131455,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4391130790 (preprint vs preprint); version of the same work",W4391130790,rule,2026-10-09
+W4411254575,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4413177129 (preprint vs article); version of the same work",W4413177129,rule,2026-10-09
+W4225470133,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4224981375 (preprint vs article); version of the same work",W4224981375,rule,2026-10-09
+W4400416109,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4394942674 (preprint vs preprint); version of the same work",W4394942674,rule,2026-10-09
+W4377027417,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4384131236 (preprint vs article); version of the same work",W4384131236,rule,2026-10-09
+W4384010219,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4389124345 (preprint vs article); version of the same work",W4389124345,rule,2026-10-09
+W4319312022,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4378588417 (preprint vs article); version of the same work",W4378588417,rule,2026-10-09
+W4411831707,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4416813109 (preprint vs article); version of the same work",W4416813109,rule,2026-10-09
+W4386377243,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4386409836 (preprint vs article); version of the same work",W4386409836,rule,2026-10-09
+W4410291596,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4412458226 (preprint vs article); version of the same work",W4412458226,rule,2026-10-09
+W4366439455,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4387164832 (preprint vs article); version of the same work",W4387164832,rule,2026-10-09
+W4384304168,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4388484400 (preprint vs article); version of the same work",W4388484400,rule,2026-10-09
+W4395453767,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4405842559 (preprint vs article); version of the same work",W4405842559,rule,2026-10-09
+W7151611001,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W7213921370 (preprint vs article); version of the same work",W7213921370,rule,2026-10-09
+W4409662627,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4414867626 (preprint vs article); version of the same work",W4414867626,rule,2026-10-09
+W4409662935,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4414867626 (preprint vs article); version of the same work",W4414867626,rule,2026-10-09
+W4318694570,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4316126941 (preprint vs article); version of the same work",W4316126941,rule,2026-10-09
+W4400027094,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4404791740 (preprint vs article); version of the same work",W4404791740,rule,2026-10-09
+W3121362389,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W3014063841 (preprint vs article); version of the same work",W3014063841,rule,2026-10-09
+W4390968143,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4390658625 (preprint vs preprint); version of the same work",W4390658625,rule,2026-10-09
+W4392940412,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4390658625 (preprint vs preprint); version of the same work",W4390658625,rule,2026-10-09
+W4410024022,G2,D3,exclude_from_core_analysis,"Same title, first author and year as W4412584636 (preprint vs article); version of the same work",W4412584636,rule,2026-10-09
+W4379798212,G2,M1,keep,"Manual check: separate publication, kept. Same journal, two articles (pp. 523-532 and pp. 253-262, published 6 and 23 June 2023), abstract wording differs: two publications",,manual,2026-10-09
+W4392314471,G2,M1,keep,"Manual check: separate publication, kept. Same journal, two articles (pp. 523-532 and pp. 253-262, published 6 and 23 June 2023), abstract wording differs: two publications",W4379798212,manual,2026-10-09
+W4408223331,G2,M1,exclude_from_core_analysis,"Manual check: same work as W4408200863. Same conference, same pages (1733-1738) and date: one paper with two DOIs",W4408200863,manual,2026-10-09
+W4321846484,G2,M1,exclude_from_core_analysis,Manual check: same work as W4319287637. All three DOIs resolve to the same article page (jstt.vn article 47),W4319287637,manual,2026-10-09
+W4385459918,G2,M1,exclude_from_core_analysis,Manual check: same work as W4319287637. All three DOIs resolve to the same article page (jstt.vn article 47),W4319287637,manual,2026-10-09
+W4200609005,G2,M1,exclude_from_core_analysis,"Manual check: same work as W4200050563. Same volume, issue and pages (9(3-4), pp. 89-99): one paper with two DOIs",W4200050563,manual,2026-10-09
+W4312798938,G2,M1,exclude_from_core_analysis,"Manual check: same work as W4312462675. Same conference, authors, pages and date: one paper with two DOIs",W4312462675,manual,2026-10-09
+W4399736436,G2,D5,exclude_from_core_analysis,"Same title, first author and year as G1 record W4396772546; a version of a G1 work is not a new G2 work",W4396772546,rule,2026-10-09
+W4402284512,G2,D5,exclude_from_core_analysis,"Same title, first author and year as G1 record W4402994714; a version of a G1 work is not a new G2 work",W4402994714,rule,2026-10-09
+W3116392925,G2,T1,exclude_from_core_analysis,Document type 'retraction' is not a research output,,rule,2026-10-09
+W3179291972,G2,T1,exclude_from_core_analysis,Document type 'erratum' is not a research output,,rule,2026-10-09
+W4200041298,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4200289992,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4200361914,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4200488666,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4200599907,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4293087012,G2,T1,exclude_from_core_analysis,Document type 'editorial' is not a research output,,rule,2026-10-09
+W4306254168,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4306318042,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4306318046,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4306318050,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4309964590,G2,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4312519086,G2,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4381955924,G2,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W4385548130,G2,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4386203391,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4386203552,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4386203624,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4386203779,G2,T1,exclude_from_core_analysis,Document type 'peer-review' is not a research output,,rule,2026-10-09
+W4392943171,G2,T1,exclude_from_core_analysis,Document type 'paratext' is not a research output,,rule,2026-10-09
+W4404378094,G2,T1,exclude_from_core_analysis,Document type 'editorial' is not a research output,,rule,2026-10-09
+W4407918284,G2,T1,exclude_from_core_analysis,Document type 'erratum' is not a research output,,rule,2026-10-09
+W4416674752,G2,T1,exclude_from_core_analysis,Document type 'editorial' is not a research output,,rule,2026-10-09
+W7140226092,G2,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W7148352014,G2,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W7156947751,G2,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W7212227551,G2,T1,exclude_from_core_analysis,Document type 'reference-entry' is not a research output,,rule,2026-10-09
+W2988843945,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W2999033430,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3042572199,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3047195441,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3112452109,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W3119487384,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3121362389,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3121411893,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3126606043,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3127034188,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3157374192,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3159812124,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3159820651,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3160105214,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W3174404568,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3174660840,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3184015565,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3189587694,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3195007847,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3207478828,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3211318450,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3211888202,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3214204173,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3216049177,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W3217433963,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200358449,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200391653,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200490214,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200524953,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200573133,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4200592000,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4206569338,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4210431086,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4213105870,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4214488663,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4225470133,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4225837200,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4226214441,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4226377208,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4229030842,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4229057526,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4229775507,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4231591779,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4233375458,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4237330706,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4237395034,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4244386089,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4245894815,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4246124986,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4246476361,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4247409727,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4247956342,G2,T2,exclude_from_core_analysis,Document type 'letter' is assessed separately from core counts,,rule,2026-10-09
+W4248270998,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4250003776,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4253665432,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4254543487,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4255396500,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4256540288,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4281572286,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4281673689,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4281755767,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4283751857,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285147192,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285302048,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4285799362,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4286007768,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4286744164,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4289340461,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4290994044,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4291127709,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293064337,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293065242,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293226044,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293248470,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4293364732,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4293462393,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4296455767,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4296702773,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4302009490,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4306747311,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308696876,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4308820126,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309220927,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309221742,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309302283,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309919343,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4309964600,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4310267025,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311009762,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4311314691,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311465546,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4311949644,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4312137407,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313482894,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4313491152,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4317399543,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4317831265,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4318694570,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4318816530,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4319312022,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4321458907,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4327546687,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4361001140,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4361987584,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362607182,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362607269,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362638269,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4362693782,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4365455447,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4365516353,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4366091886,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4366245765,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4366439455,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4366998733,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367040517,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367181212,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4367183772,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4375867116,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4376128828,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4376618094,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4376636641,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4377027417,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4378807952,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4378980735,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4379520573,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381302326,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381414654,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4381513206,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4382937603,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4383427824,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384007370,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384010219,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384130922,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384304168,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384347105,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4384942902,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4385151508,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385399827,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4385770661,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386027790,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386055897,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386056057,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386167207,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386251596,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4386292859,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386330416,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386377243,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386379139,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386411063,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386459810,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386568673,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386705945,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4386870177,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387037885,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387109736,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387350045,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387351248,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387499203,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387501255,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387571718,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387575731,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387612687,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387623648,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387790193,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387867804,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4387971288,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388134111,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388270030,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388446443,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388533614,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388579577,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388758342,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388861816,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388976703,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4388983961,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389042148,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389108085,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389131865,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389280452,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389290570,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389290571,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389317478,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389892439,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389916689,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4389932908,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390241424,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390285134,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390483757,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390574156,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390590565,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390658625,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390692664,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390700096,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4390968143,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391130790,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391131455,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391400433,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391537079,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391670667,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391808560,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4391991568,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392054225,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392642121,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4392875776,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392919001,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4392940412,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393011206,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393053109,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393281581,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393383861,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4393900561,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4394627420,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4394627749,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4394828642,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4394942674,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4395097749,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4395453767,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396212875,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396783186,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4396936136,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4398779242,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399164924,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399168383,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399247877,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399257749,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399325744,G2,T2,exclude_from_core_analysis,Document type 'book' is assessed separately from core counts,,rule,2026-10-09
+W4399375881,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4399806283,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400027094,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400222526,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400268133,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400271303,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400416109,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400494757,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400568897,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400689207,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400790364,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400937666,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4400942878,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401129753,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401155546,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401194334,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4401733113,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402172125,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W4402284512,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402656871,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402745674,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4402964506,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403246871,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403855936,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4403973720,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4404358938,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4406028722,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4406947120,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407111890,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W4407461547,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407629963,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407953336,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4407980656,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4408478492,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4408934649,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409049726,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409487341,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409662627,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409662935,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4409901140,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410024022,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410291596,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410332440,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410429351,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410909327,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4410950276,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4411254575,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4411660506,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4411831707,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412416492,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412458862,G2,T2,exclude_from_core_analysis,Document type 'software-paper' is assessed separately from core counts,,rule,2026-10-09
+W4412479332,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412519574,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412582893,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412647600,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4412731465,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413029171,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413148760,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4413777219,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414054704,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414203957,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414314491,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414402067,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4414602451,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4415210471,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W4416715027,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7114988875,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7115558239,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7116750453,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7117462957,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W7125428225,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7125488215,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7126205668,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7127593423,G2,T2,exclude_from_core_analysis,Document type 'data-paper' is assessed separately from core counts,,rule,2026-10-09
+W7128509635,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7128632182,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7130693759,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7131265613,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7133360787,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7134929802,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7134958629,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7140431899,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7148543371,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7151277389,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7151611001,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7151789493,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7152134316,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7152580065,G2,T2,exclude_from_core_analysis,Document type 'dissertation' is assessed separately from core counts,,rule,2026-10-09
+W7155080320,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7155172074,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7160249275,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162188094,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162458517,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162689014,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7162879057,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7164913408,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7165792511,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7166538462,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7166890005,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7169898811,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7196928710,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7202074384,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7202304256,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7207810115,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7212136644,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7212170186,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7212374748,G2,T2,exclude_from_core_analysis,Document type 'preprint' is assessed separately from core counts,,rule,2026-10-09
+W7216103873,G2,T2,exclude_from_core_analysis,Document type 'other' is assessed separately from core counts,,rule,2026-10-09
+W7219581131,G2,C1,exclude_from_core_analysis,openalex_created_date 2026-10-05 is after the declared cutoff 2026-10-04,,rule,2026-10-09
+W2790845829,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3035762528,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3092263022,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3116392925,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3119270949,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3135053769,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3135423326,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3139181467,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3148821359,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3154435603,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3160199995,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3169962164,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3171716797,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3175177319,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3192247525,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3198367477,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3214596394,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W3217712562,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4200001704,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4200336735,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4206004909,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4206641747,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4210264345,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4210907603,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4220718759,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4220742353,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4221004963,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4225424906,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4281862534,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4286434129,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4296079707,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4297799265,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4304807106,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4307960389,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4309474884,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4321446062,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4323663284,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4360614380,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4366275530,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4378071050,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4383066741,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4383620699,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4385237766,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4385492525,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4386648455,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4387042914,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4387052505,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4387613955,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4387697446,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4388759889,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391444773,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391512471,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4391885067,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4392069227,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4392919001,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4401812112,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4404704597,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4407551478,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4415223621,G2,Q1,flag_only,"Marked retracted in OpenAlex; kept, and core counts are also reported without retracted works",,rule,2026-10-09
+W4248270998,G2,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (no author ID); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W4256540288,G2,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (no author ID); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
+W7161700168,G2,S2,flag_only,Seed-author name appears with a different or missing OpenAlex author ID: Seyedali Mirjalili (A5124007815); self_citation_flag (ID rule) left unchanged,,rule,2026-10-09
